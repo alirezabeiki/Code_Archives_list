@@ -1,0 +1,15 @@
+# DMD
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+
+## 2018
+* Deep learning for universal linear embeddings of nonlinear dynamics, ([Python](https://github.com/BethanyL/DeepKoopman))
+
+## 2019
+* Data-driven discovery of coordinates and governing equations, ([Python](https://github.com/kpchamp/SindyAutoencoders))
+* Deep learning of dynamics and signal-noise decomposition with time-stepping constraints ([Python](https://github.com/snagcliffs/RKNN))
+
+## 2020
+* A unified sparse optimization framework to learn parsimonious physics-informed models from data, ([Python](https://github.com/kpchamp/SINDySR3))
+* Recurrent neural networks and Koopman-based frameworks for temporal predictions in turbulence ()

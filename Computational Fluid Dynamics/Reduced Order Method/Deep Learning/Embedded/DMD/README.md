@@ -13,3 +13,4 @@
 ## 2020
 * A unified sparse optimization framework to learn parsimonious physics-informed models from data, ([Python](https://github.com/kpchamp/SINDySR3))
 * Recurrent neural networks and Koopman-based frameworks for temporal predictions in turbulence ()
+* Feature engineering and symbolic regression methods for detecting hidden physics from sparse sensor observation data ([Python](https://github.com/sayin/Data_Driven_Symbolic_Regression))

@@ -17,7 +17,6 @@
 
 
 ## 2020
-* Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, ([TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS))
 * Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, Journal of Fluid Mechanics, ([TensorFlow](http://kflab.jp/en/index.php?18H03758))
 * Convolutional neural network based hierarchical autoencoder for nonlinear mode decomposition of fluid field data, ([TensorFlow](http://kflab.jp/en/index.php?18H03758))
 * Comparing Recurrent and Convolutional Neural Networks for Predicting Wave Propagation, ([Pytorch](https://github.com/stathius/wave_propagation))
@@ -30,7 +29,10 @@
 * Data-driven super-parameterization using deep learning Experimentation with multi-scale Lorenz 96 systems and transfer-learning, ([TensorFlow](https://github.com/ashesh6810/Data-driven-super-parametrization-with-deep-learning))
 * Hierarchical Deep Learning of Multiscale Differential Equation Time-Steppers, (https://github.com/luckystarufo/multiscale_HiTS)
 * Surrogate Modeling for Fluid Flows Based on Physics-Constrained Label-Free Deep Learning, ([Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate))
+* A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs ([TensorFlow](https://github.com/stefaniafresca/DL-ROM-Meth))
+* Deep learning-based reduced order models in cardiac electrophysiology ([TensorFlow](https://github.com/stefaniafresca/DL-ROM))
 
 ## 2021
 * Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, ([TensorFlow](https://github.com/taichimoja/ML-ROM_turbulent_flow))
-
+* POD-DL-ROM enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition ([TensorFlow](https://github.com/stefaniafresca/POD-DL-ROM))
+* Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, ([TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS))

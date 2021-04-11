@@ -1,5 +1,11 @@
 
 
+## One Dimensional LSTM
+
+### 2017 
+* Multiplicative LSTM for sequence modelling, ([TensorFlow](https://github.com/benkrause/mLSTM))
+
+
 ## Multidimensional Long Short-Term Memory (MD-LSTM)
 
 ### 2007
@@ -7,7 +13,7 @@
 
 ### 2018
 * Towards Two-Dimensional Sequence to Sequence Model in Neural Machine Translation ([Pytorch](https://github.com/FlorianPfisterer/2D-LSTM-Seq2Seq))
-
+* PredRNN++ Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning ([TensorFlow](https://github.com/Yunbo426/predrnn-pp))
 
 
 ## Multiscale LSTM

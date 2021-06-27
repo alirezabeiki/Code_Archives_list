@@ -14,3 +14,12 @@
 
 ### 2019
 * A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference ([Pytorch](https://github.com/kumar-shridhar/PyTorch-BayesianCNN))
+
+
+## Attention CNN
+
+### 2018
+* CBAM: Convolutional Block Attention Module ([TensorFlow](https://github.com/kobiso/CBAM-keras))
+
+### 2020
+* Attention Augmented Convolutional Networks ([TensorFlow](https://github.com/titu1994/keras-attention-augmented-convs), [Pytorch](https://github.com/leaderj1001/Attention-Augmented-Conv2d))

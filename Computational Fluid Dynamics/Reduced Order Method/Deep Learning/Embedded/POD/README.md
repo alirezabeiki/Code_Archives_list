@@ -17,3 +17,5 @@
 * Time-series learning of latent-space dynamics for reduced-order model closure, ([TensorFlow](https://github.com/Romit-Maulik/ML_ROM_Closures))
 * A long short-term memory embedding for hybrid uplifted reduced order models, ([TensorFlow](https://github.com/Shady-Ahmed/UROM))
 
+## 2021
+* Model fusion with physics-guided machine learning Projection-based reduced-order modeling ([TensorFlow](https://github.com/surajp92/PGML_ROM))

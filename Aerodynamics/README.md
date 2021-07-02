@@ -27,5 +27,6 @@
 * [Julia](https://github.com/byuflowlab/ning2020-bem) - This repository contains scripts to reproduce the results shown in "Using Blade Element Momentum Methods with Gradient-Based Design Optimization".
 
 
-
+## Deep Learning
+* [TensorFlow](https://github.com/surajp92/PGML) - Physics guided machine learning using simplified theories 
 

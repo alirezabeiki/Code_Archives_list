@@ -19,3 +19,4 @@
 
 ## 2021
 * Model fusion with physics-guided machine learning Projection-based reduced-order modeling ([TensorFlow](https://github.com/surajp92/PGML_ROM))
+* Multifidelity computing for coupling full and reduced order models ([TensorFlow](https://github.com/Shady-Ahmed/ROM-FOM-Coupling))

@@ -32,10 +32,14 @@
 
 ## Actuator Method
 * [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - Actuator line modeling of vertical-axis turbines, 2016.
-
+* [multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam) - Generalization of Erik Svenning's solver.
+* [actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver)
 
 ## Discontinuous Galerkin Method
 * [HopeFOAM](https://github.com/HopeFOAM/HopeFOAM) - High Order Parallel Extensible CFD software.
+
+### Solver
+* [rhoDST](https://github.com/DSTECHNO/rhoDST) - a density based solver rhoDST for steady and unsteady simulation of high speed compressible flows over aeronautical vehicles.
 
 
 ## Tutorials:
@@ -45,6 +49,14 @@
 
 ### Dynamic Mesh
 * [VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase) - Vertical-Axis Wind Turbine.
+* [VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh)
 
 ### Programming
 * [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!
+
+## Tutorials
+* [Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM)
+* [Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM)
+* [Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder)
+* [airfoil2D](https://github.com/EdgarAMO/airfoil2D)
+* [actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)

@@ -31,8 +31,10 @@
 * Surrogate Modeling for Fluid Flows Based on Physics-Constrained Label-Free Deep Learning, ([Pytorch](https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate))
 * A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs ([TensorFlow](https://github.com/stefaniafresca/DL-ROM-Meth))
 * Deep learning-based reduced order models in cardiac electrophysiology ([TensorFlow](https://github.com/stefaniafresca/DL-ROM))
+* Neural Operator: Graph Kernel Network for Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/graph-pde))
 
 ## 2021
 * Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, ([TensorFlow](https://github.com/taichimoja/ML-ROM_turbulent_flow))
 * POD-DL-ROM enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition ([TensorFlow](https://github.com/stefaniafresca/POD-DL-ROM))
 * Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, ([TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS))
+* Fourier Neural Operator for Parametric Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator))

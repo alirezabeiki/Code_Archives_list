@@ -6,7 +6,7 @@
 ## Reduced-Order Modeling
 * [AccelerateCFD_CE](https://github.com/IllinoisRocstar/AccelerateCFD_CE) - AccelerateCFD
 * [ITHACA-FV ](https://github.com/mathLab/ITHACA-FV) - POD-Galerkin reduced order methods for CFD using Finite Volume Discretisation: vortex shedding around a circular cylinder, 2017.
-
+* [mlfoam](https://github.com/AndreWeiner/mlfoam) - OpenFOAM technical committee on data-driven modeling
 
 ## Multiphase
 * [varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2) - varRhoTurbVOF: A new set of volume of fluid solvers for turbulent isothermal multiphase flows in OpenFOAM, 2020.

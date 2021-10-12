@@ -16,6 +16,9 @@
 ## Discretization
 * [WENOEXT](https://github.com/WENO-OF/WENOEXT) - WENO framework.
 
+## Turbulence Modeling
+* [OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM) - code for ShihQuadraticKE turbulence model
+
 
 ## Molecular Dynamics
 * [hyStrath](https://github.com/vincentcasseau/hyStrath) - hyStrath

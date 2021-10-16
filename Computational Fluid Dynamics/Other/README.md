@@ -12,6 +12,7 @@
 ## 2020
 * FiniteNet A Fully Convolutional LSTM Network Architecture for Time-Dependent Partial Differential Equations. ([Pytorch](https://github.com/FiniteNetICML2020Code/FiniteNet))
 * DiffusionNet: Accelerating the solution of Time-Dependent partial differential equations using deep learning. ([TensorFlow](https://github.com/ASEM000/DiffusionNet))
+* Physics-guided convolutional neural network (PhyCNN) for data-driven seismic response modeling. ([TensorFlow](https://github.com/zhry10/PhyCNN))
 
 
 

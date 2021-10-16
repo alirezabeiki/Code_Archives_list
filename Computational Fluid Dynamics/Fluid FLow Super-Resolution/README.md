@@ -11,6 +11,9 @@
 * Generalization techniques of neural networks for fluid flow estimation, ([TensorFlow](https://github.com/Masaki-Morimoto/Grad-CAM_for_fluid-flows))
 * Turbulence Enrichment with Physics-informed Generative Adversarial Network, ([TensorFlow](https://github.com/akshaysubr/TEGAN))
 
+## 2021
+* Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels. ([Pytorch](https://github.com/Jianxun-Wang/PICNNSR))
+
 
 
 

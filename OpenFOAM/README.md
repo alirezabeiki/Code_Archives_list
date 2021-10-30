@@ -41,8 +41,10 @@
 ## Discontinuous Galerkin Method
 * [HopeFOAM](https://github.com/HopeFOAM/HopeFOAM) - High Order Parallel Extensible CFD software.
 
+
 ### Solver
 * [rhoDST](https://github.com/DSTECHNO/rhoDST) - a density based solver rhoDST for steady and unsteady simulation of high speed compressible flows over aeronautical vehicles.
+* [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
 
 
 ## Tutorials:

@@ -23,3 +23,4 @@
 * Physics-informed machine learning for reduced-order modeling of nonlinear problems. ([Pytorch](https://github.com/cwq2016/POD-PINN))
 * pyNIROM—A suite of python modules for non-intrusive reduced order modeling of time-dependent problems. ([TensorFlow](https://github.com/SoftwareImpacts/SIMPAC-2021-87))
 * Multifidelity computing for coupling full and reduced order models. ([TensorFlow](https://github.com/Shady-Ahmed/ROM-FOM-Coupling))
+* Nonlinear proper orthogonal decomposition for convection-dominated flows. ([TensorFlow](https://github.com/Shady-Ahmed/NLPOD))

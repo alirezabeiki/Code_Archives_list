@@ -17,3 +17,4 @@
 ## 2021
 * Sparse identification of nonlinear dynamics with low-dimensionalized flow representations ([TensorFlow](https://github.com/kfukami/CNN-SINDy-MLROM))
 * Recurrent neural networks and Koopman-based frameworks for temporal predictions in a low-order model of turbulence ([TensorFlow](https://github.com/KTH-Nek5000/9eqModel_KNFandLSTM))
+* Physics-informed dynamic mode decomposition (piDMD) ([MATLAB](https://github.com/baddoo/piDMD))

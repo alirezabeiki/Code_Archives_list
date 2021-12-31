@@ -36,5 +36,6 @@
 *  Fourier Neural Operator for Parametric Partial Differential Equations. ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator))
 * When and why PINNs fail to train: A neural tangent kernel perspective. ([TensorFlow](https://github.com/PredictiveIntelligenceLab/PINNsNTK))
 * Physics-informed graph neural Galerkin networks A unified framework for solving PDE-governed forward and inverse problems. ([Noune](https://github.com/Jianxun-Wang/graphGalerkin))
+* Physics-Informed Neural Networks with Hard Constraints for Inverse Design ([TensorFlow](https://github.com/lululxvi/hpinn))
 
 

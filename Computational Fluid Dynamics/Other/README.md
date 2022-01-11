@@ -2,7 +2,8 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-
+## 2018
+* Adversarial Uncertainty Quantification in Physics-Informed Neural Networks ([TensorFlow](https://github.com/tenokonda/gan-pi))
 
 ## 2019
 * Synthetic turbulent inflow generator using machine learning, ([TensorFLow](https://github.com/kfukami/MLTG_PRFluids2019))
@@ -18,6 +19,8 @@
 * A twin-decoder structure for incompressible laminar flow reconstruction with uncertainty estimation around 2D obstacles. ([TensorFlow](https://github.com/jviquerat/twin_autoencoder))
 * Embedding Physics to Learn Spatiotemporal Dynamics from Sparse Data. ([Pytorch](https://github.com/Raocp/PeRCNN))
 * Graph neural networks for laminar flow prediction around random two-dimensional shapes. ([TensorFlow](https://github.com/jviquerat/gnn_laminar_flow))
+* PID-GAN A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics. ([Pytorch](https://github.com/arkadaw9/PID-GAN))
+
 
 
 

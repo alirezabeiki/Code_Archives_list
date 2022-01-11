@@ -16,6 +16,7 @@
 * 2D Convolutional Neural Markov Models for Spatiotemporal Sequence Forecasting ([Pytorch](https://github.com/CJHJ/convolutional-neural-markov-model))
 * Attention Augmented ConvLSTM for Environment Prediction ([Pytorch](https://github.com/sisl/AttentionAugmentedConvLSTM))
 * Convolutional Tensor-Train LSTM for Spatio-temporal Learning ([Pytorch](https://github.com/NVlabs/conv-tt-lstm))
+* Self-Attention ConvLSTM for Spatiotemporal Prediction ([TensorFlow](https://github.com/MahatmaSun1/SaConvSLTM))
 
 
 

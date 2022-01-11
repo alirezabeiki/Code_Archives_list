@@ -39,3 +39,6 @@
 * Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, ([TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS))
 * Fourier Neural Operator for Parametric Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator))
 * Disentangling Generative Factors of Physical Fields Using Variational Autoencoders ([Pytorch](https://github.com/christian-jacobsen/Disentangling-Physical-Fields))
+
+## 2022
+* PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs. ([Pytorch](https://github.com/paulpuren/PhyCRNet))

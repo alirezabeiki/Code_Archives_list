@@ -1,4 +1,4 @@
-# Other usage of DL in fluid mechanics
+# Other usages of DL in fluid mechanics
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -20,7 +20,10 @@
 * Embedding Physics to Learn Spatiotemporal Dynamics from Sparse Data. ([Pytorch](https://github.com/Raocp/PeRCNN))
 * Graph neural networks for laminar flow prediction around random two-dimensional shapes. ([TensorFlow](https://github.com/jviquerat/gnn_laminar_flow))
 * PID-GAN A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics. ([Pytorch](https://github.com/arkadaw9/PID-GAN))
+* Frame-independent vector-cloud neural network for nonlocal constitutive modeling on arbitrary grids. ([Pytorch](https://github.com/xuhuizhou-vt/VCNN-nonlocal-constitutive-model))
 
+## 2022
+* VCNN-e A vector-cloud neural network with equivariance for emulating Reynolds stress transport equations.([Pytorch](https://github.com/xuhuizhou-vt/VCNN-nonlocal-constitutive-model))
 
 
 

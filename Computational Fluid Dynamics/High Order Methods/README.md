@@ -5,6 +5,7 @@
 
 ## Flux Reconstruction
 * PyFR, ([Python](https://github.com/PyFR/PyFR))
+* FluxReconstruction, ([Julia](https://github.com/vavrines/FluxReconstruction.jl))
 
 
 ## Discontinuous Galerkin

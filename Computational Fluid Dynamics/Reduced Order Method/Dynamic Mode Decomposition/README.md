@@ -8,6 +8,7 @@
 
 ## 2017
 * Hao Zhang and Clarence W Rowley, "Online DMD and window DMD implementation in Matlab and Python", ([MATLAB](https://github.com/haozhg/odmd)) 
+* Dynamic mode decomposition for compressive system identification. ([MATLAB](https://github.com/zhbai/cDMDc))
 
 ## 2018
 * Data-driven discovery of Koopman eigenfunctions for control, ([MATLAB](https://github.com/eurika-kaiser/KRONIC))

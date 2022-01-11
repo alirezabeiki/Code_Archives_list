@@ -19,3 +19,6 @@
 
 
 
+# Some Implementations
+
+* ConvLSTM & ConvGRU by return_sequence=False ([Pytorch](https://github.com/TrevorIkky/ConvRNNs))

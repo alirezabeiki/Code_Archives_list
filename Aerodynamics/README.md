@@ -22,11 +22,16 @@
 * [Julia](https://github.com/byuflowlab/DLM.jl) - Pure Julia implementation of the Doublet Lattice Method.
 
 
-## Blase Element Theory (BEM)
+## Blade Element Theory (BEM)
 * [Julia](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
 * [Julia](https://github.com/byuflowlab/ning2020-bem) - This repository contains scripts to reproduce the results shown in "Using Blade Element Momentum Methods with Gradient-Based Design Optimization".
 
 
 ## Deep Learning
-* [TensorFlow](https://github.com/surajp92/PGML) - Physics guided machine learning using simplified theories 
+
+# Papers
+
+## 2021
+* Unsteady aerodynamics of porous aerofoils ([MATLAB](https://github.com/baddoo/unsteady-porous-aerofoils))
+* Physics guided machine learning using simplified theories ([TensorFlow](https://github.com/surajp92/PGML))
 

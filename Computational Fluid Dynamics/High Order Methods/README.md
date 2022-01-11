@@ -22,6 +22,9 @@
 ## Spectral Element
 * HORSES: a High Order Spectral Element Solver (2D), ([Fortran](https://github.com/horsescfd/HORSES2D))
 
+## Spectral Difference
+* SpectralDifference, ([Julia](https://github.com/HTofi/SpectralDifference.jl))
+
 
 ## Grid Geneartion
 * HOPR, ([Fortran](https://github.com/flexi-framework/hopr))

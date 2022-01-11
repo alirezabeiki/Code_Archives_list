@@ -27,9 +27,11 @@
 * [Julia](https://github.com/byuflowlab/ning2020-bem) - This repository contains scripts to reproduce the results shown in "Using Blade Element Momentum Methods with Gradient-Based Design Optimization".
 
 
-## Deep Learning
 
 # Papers
+
+## 2019
+* Exact solutions for ground effect. ([MATLAB](https://github.com/baddoo/ground-effect))
 
 ## 2021
 * Unsteady aerodynamics of porous aerofoils ([MATLAB](https://github.com/baddoo/unsteady-porous-aerofoils))

@@ -21,5 +21,13 @@
 ### 2018
 * CBAM: Convolutional Block Attention Module ([TensorFlow](https://github.com/kobiso/CBAM-keras))
 
+### 2019
+* CondConv Conditionally Parameterized Convolutions for Efficient Inference. ([TensorFlow](https://github.com/prstrive/CondConv-tensorflow))
+
 ### 2020
 * Attention Augmented Convolutional Networks ([TensorFlow](https://github.com/titu1994/keras-attention-augmented-convs), [Pytorch](https://github.com/leaderj1001/Attention-Augmented-Conv2d))
+* Dynamic Convolution Attention over Convolution Kernels ([Pytorch](https://github.com/kaijieshi7/Dynamic-convolution-Pytorch))
+* Dynamic Group Convolution for Accelerating Convolutional Neural Networks ([Pytorch](https://github.com/zhuogege1943/dgc))
+
+### 2021
+* Revisiting Dynamic Convolution via Matrix Decomposition ([Pytorch](https://github.com/liyunsheng13/dcd))

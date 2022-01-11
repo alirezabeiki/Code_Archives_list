@@ -14,6 +14,9 @@
 * DiffusionNet: Accelerating the solution of Time-Dependent partial differential equations using deep learning. ([TensorFlow](https://github.com/ASEM000/DiffusionNet))
 * Physics-guided convolutional neural network (PhyCNN) for data-driven seismic response modeling. ([TensorFlow](https://github.com/zhry10/PhyCNN))
 
+## 2021
+* A twin-decoder structure for incompressible laminar flow reconstruction with uncertainty estimation around 2D obstacles. ([TensorFlow](https://github.com/jviquerat/twin_autoencoder))
+
 
 
 

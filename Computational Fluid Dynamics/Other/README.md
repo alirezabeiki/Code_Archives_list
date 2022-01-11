@@ -21,6 +21,10 @@
 * Graph neural networks for laminar flow prediction around random two-dimensional shapes. ([TensorFlow](https://github.com/jviquerat/gnn_laminar_flow))
 * PID-GAN A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics. ([Pytorch](https://github.com/arkadaw9/PID-GAN))
 * Frame-independent vector-cloud neural network for nonlocal constitutive modeling on arbitrary grids. ([Pytorch](https://github.com/xuhuizhou-vt/VCNN-nonlocal-constitutive-model))
+* Learning nonlocal constitutive models with neural networks ([Pytorch](https://github.com/xiaoh/constitutive-neural-networks))
+* Direct shape optimization through deep reinforcement learning ([TensorFlow](https://github.com/jviquerat/drl_shape_optimization))
+* 
+
 
 ## 2022
 * VCNN-e A vector-cloud neural network with equivariance for emulating Reynolds stress transport equations.([Pytorch](https://github.com/xuhuizhou-vt/VCNN-nonlocal-constitutive-model))

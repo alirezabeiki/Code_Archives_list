@@ -29,6 +29,7 @@
 * Dynamic Convolution Attention over Convolution Kernels ([Pytorch](https://github.com/kaijieshi7/Dynamic-convolution-Pytorch))
 * Dynamic Group Convolution for Accelerating Convolutional Neural Networks ([Pytorch](https://github.com/zhuogege1943/dgc))
 * Adaptive Convolution Kernel for Artificial Neural Networks ([TensorFlow](https://github.com/btekgit/AdaptiveCNN))
+* Orthogonal Convolutional Neural Networks ([Pytorch](https://github.com/samaonline/Orthogonal-Convolutional-Neural-Networks))
 
 ### 2021
 * Revisiting Dynamic Convolution via Matrix Decomposition ([Pytorch](https://github.com/liyunsheng13/dcd))

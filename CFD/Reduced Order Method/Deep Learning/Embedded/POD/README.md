@@ -24,6 +24,7 @@
 * pyNIROM—A suite of python modules for non-intrusive reduced order modeling of time-dependent problems. ([TensorFlow](https://github.com/SoftwareImpacts/SIMPAC-2021-87))
 * Multifidelity computing for coupling full and reduced order models. ([TensorFlow](https://github.com/Shady-Ahmed/ROM-FOM-Coupling))
 * Nonlinear proper orthogonal decomposition for convection-dominated flows. ([TensorFlow](https://github.com/Shady-Ahmed/NLPOD))
+* Assessment of unsteady flow predictions using hybrid deep learning based reducedorder models ([MATLAB](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM))
 
 ## 2022
 * A predictive hybrid reduced order model based on proper orthogonal decomposition combined with deep learning architectures. ([TensorFlow](https://github.com/Mlopezm/A-Predictive-Hybrid-ROM-Model-Based-on-Proper-Orthogonal-Decomposition-with-DL-Architectures))

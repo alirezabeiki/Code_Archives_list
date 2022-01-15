@@ -36,4 +36,5 @@
 ## 2021
 * Unsteady aerodynamics of porous aerofoils ([MATLAB](https://github.com/baddoo/unsteady-porous-aerofoils))
 * Physics guided machine learning using simplified theories ([TensorFlow](https://github.com/surajp92/PGML))
+* Graph convolutional networks applied to unstructured flow field data ([Unknown](https://github.com/BaratiLab/Airfoil-GCNN))
 

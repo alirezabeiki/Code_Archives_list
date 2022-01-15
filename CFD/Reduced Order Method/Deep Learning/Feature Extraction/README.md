@@ -32,6 +32,7 @@
 * A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs ([TensorFlow](https://github.com/stefaniafresca/DL-ROM-Meth))
 * Deep learning-based reduced order models in cardiac electrophysiology ([TensorFlow](https://github.com/stefaniafresca/DL-ROM))
 * Neural Operator: Graph Kernel Network for Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/graph-pde))
+* Model Order Reduction using a Deep Orthogonal Decomposition ([Unknown](https://github.com/danieljtait/mordod))
 
 ## 2021
 * Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, ([TensorFlow](https://github.com/taichimoja/ML-ROM_turbulent_flow))

@@ -16,6 +16,7 @@
 * DEEPXDE A Deep Learning Libarary for Solving Differential Equations. ([TensorFlow](https://github.com/lululxvi/deepxde))
 * Variational Neural Networks for the Solution of Partial Differential Equations. ([TensorFlow](https://github.com/RizaXudayi/VarNet))
 * Deep Learning of Vortex Induced Vibrations. ([TensorFlow](https://github.com/maziarraissi/DeepVIV))
+* Differentiable Physics-informed Graph Networks ([Pytorch](https://github.com/sungyongs/dpgn))
 
 ## 2020
 * PhyGeoNet Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain ([Pytorch](https://github.com/Jianxun-Wang/phygeonet))

@@ -6,6 +6,9 @@
 ## 2015
 * A Data–Driven Approximation of the Koopman Operator Extending Dynamic Mode Decomposition, ([Python](https://github.com/dynamicslab/pykoopman))
 
+##
+* Data-driven discovery of partial differential equations ([Python](https://github.com/snagcliffs/PDE-FIND))
+
 ## 2017
 * Hao Zhang and Clarence W Rowley, "Online DMD and window DMD implementation in Matlab and Python", ([MATLAB](https://github.com/haozhg/odmd)) 
 * Dynamic mode decomposition for compressive system identification. ([MATLAB](https://github.com/zhbai/cDMDc))

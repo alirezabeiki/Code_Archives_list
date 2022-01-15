@@ -14,6 +14,8 @@
 * FiniteNet A Fully Convolutional LSTM Network Architecture for Time-Dependent Partial Differential Equations. ([Pytorch](https://github.com/FiniteNetICML2020Code/FiniteNet))
 * DiffusionNet: Accelerating the solution of Time-Dependent partial differential equations using deep learning. ([TensorFlow](https://github.com/ASEM000/DiffusionNet))
 * Physics-guided convolutional neural network (PhyCNN) for data-driven seismic response modeling. ([TensorFlow](https://github.com/zhry10/PhyCNN))
+* A supervised neural network for drag prediction of arbitrary 2D shapes in low Reynolds number flows ([TensorFlow](https://github.com/jviquerat/cnn_drag_prediction))
+
 
 ## 2021
 * A twin-decoder structure for incompressible laminar flow reconstruction with uncertainty estimation around 2D obstacles. ([TensorFlow](https://github.com/jviquerat/twin_autoencoder))

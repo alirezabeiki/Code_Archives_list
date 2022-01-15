@@ -18,6 +18,7 @@
 * Large-Eddy Simulation framework from the Turbulence Research Group at Johns Hopkins University, ([Fortran](https://github.com/lesgo-jhu/lesgo))
 
 
-
+## Deep Learning
+* Frame invariant neural network closures for Kraichnan turbulence ([Unknown](https://github.com/surajp92/FI-CNN))
 
 

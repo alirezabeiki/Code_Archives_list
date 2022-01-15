@@ -29,7 +29,7 @@
 
 ## 2021
 * Learning dominant physical processes with data-driven balance models, ([Python](https://github.com/dynamicslab/dominant-balance))
-
+* SINDy with Control A Tutorial ([MATLAB](https://github.com/urban-fasel/SEIR_SINDY_MPC))
 
 
 

@@ -8,6 +8,7 @@
 
 ## 2017
 * Semi-Supervised Classification with Graph Convolutional Networks ([Keras](https://github.com/tkipf/gcn),[Pytorch](https://github.com/tkipf/pygcn))
+* Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks ([TensorFlow ](https://github.com/fmonti/mgcnn))
 
 ## 2018
 * Residual Gated Graph ConvNets ([Pytorch](https://github.com/xbresson/spatial_graph_convnets))

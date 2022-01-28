@@ -36,4 +36,5 @@
 * Challenges in dynamic mode decomposition ([Python](https://deepblue.lib.umich.edu/data/concern/data_sets/cz30ps88z))
 
 
-
+## Codes
+* [SPOD-DMD](https://github.com/xuanshi123/SPOD-DMD)

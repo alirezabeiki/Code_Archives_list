@@ -46,6 +46,7 @@
 * [rhoDST](https://github.com/DSTECHNO/rhoDST) - a density based solver rhoDST for steady and unsteady simulation of high speed compressible flows over aeronautical vehicles.
 * [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
 * [hybridFoam](https://github.com/xiaoh/hybridFoam) - A dual-mesh hybrid LES/RANS solver in OpenFOAM
+* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
 
 ## Tutorials:
 
@@ -58,11 +59,20 @@
 
 ### Programming
 * [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!
+* [foam2Columns](https://github.com/ZhangYanTJU/foam2Columns) - foam2Columns
 
 ## Tutorials
 * [Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM)
 * [Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM)
 * [Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder)
 * [airfoil2D](https://github.com/EdgarAMO/airfoil2D)
-* [actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)
+* [actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)]
 * [NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam)
+* [transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution)
+* [transonicNozzle](https://github.com/tahayasardemir/transonicNozzle)
+* 
+
+
+
+
+

@@ -70,7 +70,10 @@
 * [NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam)
 * [transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution)
 * [transonicNozzle](https://github.com/tahayasardemir/transonicNozzle)
-* 
+* [OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo) - OpenFOAM cases from my YouTube channel
+
+
+
 
 
 

@@ -6,3 +6,7 @@
 
 ## 2020
 * Robust active flow control over a range of Reynolds numbers using an artificial neural network trained through deep reinforcement learning ([TensorFlow](https://github.com/thw1021/Cylinder2DFlowControlGeneral))
+
+
+## Code
+* DMDc on Flow over a Cylinder for control with MPC ([https://github.com/kommalapatisahil/DMDc_FlowControl](Python))

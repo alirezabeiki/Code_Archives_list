@@ -13,6 +13,7 @@
 * ChiDG: A Chimera-based, discontinuous Galerkin framework, ([Fortran](https://github.com/nwukie/ChiDG))
 * DG_code: Discontinuous Galerkin solver in cartesian and spherical geometry, ([MATLAB](https://github.com/nickdisca/DG_code))
 * Adaptive Multiresolution DG, ([c++](https://github.com/JuntaoHuang/adaptive-multiresolution-DG))
+* ExaDG - High-Order Discontinuous Galerkin for the Exa-Scale ([c++](https://github.com/exadg/exadg))
 
 
 ## Spectral

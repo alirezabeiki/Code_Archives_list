@@ -65,3 +65,4 @@
 * [Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder)
 * [airfoil2D](https://github.com/EdgarAMO/airfoil2D)
 * [actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)
+* [NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam)

@@ -20,5 +20,6 @@
 
 ## Deep Learning
 * Frame invariant neural network closures for Kraichnan turbulence ([Unknown](https://github.com/surajp92/FI-CNN))
-
-
+* Automating Turbulence Modeling by Multi-Agent Reinforcement Learning ([Python](https://github.com/cselab/MARL_LES))
+* Quantifying and reducing model-form uncertainties in Reynolds averaged Navier–Stokes equations: A data-driven, physics-informed Bayesian approach ([Python](https://github.com/xiaoh/data-driven-rans-modeling))
+* Physics informed machine learning approach for reconstructing Reynolds stress modeling discrepancies based on DNS data. ([Python](https://github.com/xiaoh/turbulence-modeling-PIML))

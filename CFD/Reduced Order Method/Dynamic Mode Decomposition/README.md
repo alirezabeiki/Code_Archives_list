@@ -29,6 +29,7 @@
 * PySINDy A Python package for the Sparse Identification of Nonlinear Dynamical Systems from Data, ([Python](https://github.com/dynamicslab/pysindy))
 * SINDy-PI A Robust Algorithm for Parallel Implicit Sparse Identification of Nonlinear Dynamics, ([MATLAB](https://github.com/dynamicslab/SINDy-PI))
 * Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces, ([Python](https://github.com/pswpswpsw/SKDMD))
+* Phase-consistent dynamic mode decomposition from multiple overlapping spatial domains, ([MATLAB](https://github.com/nairaditya/Phase_consistent_DMD))
 
 ## 2021
 * Learning dominant physical processes with data-driven balance models, ([Python](https://github.com/dynamicslab/dominant-balance))

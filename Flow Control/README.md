@@ -11,6 +11,7 @@
 
 ## 2021 
 * Phase-based control of periodic fluid flows ([MATLAB](https://github.com/nairaditya/Phase-control-fluid-flow))
+* Active flow control in simulations of fluid flows based on deep reinforcement learning ([Pytorch](https://github.com/darshan315/flow_past_cylinder_by_DRL))
 
 
 ## Code

@@ -18,6 +18,7 @@
 
 ## Turbulence Modeling
 * [OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM) - code for ShihQuadraticKE turbulence model
+* [myTurbulenceModels](https://github.com/furstj/myTurbulenceModels) - several additional models for OpenFOAM
 
 
 ## Molecular Dynamics
@@ -47,6 +48,7 @@
 * [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
 * [hybridFoam](https://github.com/xiaoh/hybridFoam) - A dual-mesh hybrid LES/RANS solver in OpenFOAM
 * [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
+* [myFoam](https://github.com/furstj/myFoam) - several additional solvers for OpenFOAM.
 
 ## Tutorials:
 

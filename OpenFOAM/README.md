@@ -73,8 +73,9 @@
 * [transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution)
 * [transonicNozzle](https://github.com/tahayasardemir/transonicNozzle)
 * [OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo) - OpenFOAM cases from my YouTube channel
-
-
+* [NACAFoil-OpenFOAM](https://github.com/petebachant/NACAFoil-OpenFOAM) - OpenFOAM case files for simulating NACA foils.
+* [openfoam_python](https://github.com/openfoamtutorials/openfoam_python) - Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.
+* [airfoilFoam](https://github.com/socrates-ferna/airfoilFoam) - An OpenFOAM automated tool for airfoil 2D CFD analysis.
 
 
 

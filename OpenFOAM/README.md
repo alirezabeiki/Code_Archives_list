@@ -76,7 +76,7 @@
 * [NACAFoil-OpenFOAM](https://github.com/petebachant/NACAFoil-OpenFOAM) - OpenFOAM case files for simulating NACA foils.
 * [openfoam_python](https://github.com/openfoamtutorials/openfoam_python) - Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.
 * [airfoilFoam](https://github.com/socrates-ferna/airfoilFoam) - An OpenFOAM automated tool for airfoil 2D CFD analysis.
-
+* [naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet) - OpenFOAM simulations of transonic shock buffets at a NACA-0012 airfoil.
 
 
 

@@ -45,3 +45,4 @@
 
 ## 2022
 * PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs. ([Pytorch](https://github.com/paulpuren/PhyCRNet))
+* Transformers for modeling physical systems. ([Pyhon](https://github.com/zabaras/transformer-physx))

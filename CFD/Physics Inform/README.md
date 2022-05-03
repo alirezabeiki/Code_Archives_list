@@ -29,7 +29,7 @@
 
 
 ## 2021
-* Physics-informed Dyna-Style Model-Based Deep Reinforcement Learning for Dynamic Control ([]())
+* Physics-informed Dyna-Style Model-Based Deep Reinforcement Learning for Dynamic Control ([Pytorch](https://github.com/Jianxun-Wang/PIMBRL))
 *  Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations ([Pytorch](https://github.com/benmoseley/FBPINNs))
 *  Learning the solution operator of parametric partial differential equations with physics-informed {DeepONets} ([Python](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets))
 *  On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks ([TensorFlow](https://github.com/PredictiveIntelligenceLab/MultiscalePINNs))
@@ -39,5 +39,6 @@
 * Physics-informed graph neural Galerkin networks A unified framework for solving PDE-governed forward and inverse problems. ([Noune](https://github.com/Jianxun-Wang/graphGalerkin))
 * Physics-Informed Neural Networks with Hard Constraints for Inverse Design ([TensorFlow](https://github.com/lululxvi/hpinn))
 * Learning the solution operator of parametric partial differential equations with physics-informed DeepONets. ([Jax](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets))
+* Physics-Informed Deep Learning and its Application in Computational Solid and Fluid Mechanics. ([Pytorch](https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics))
 
 

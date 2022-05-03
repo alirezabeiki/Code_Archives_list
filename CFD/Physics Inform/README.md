@@ -42,3 +42,6 @@
 * Physics-Informed Deep Learning and its Application in Computational Solid and Fluid Mechanics. ([Pytorch](https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics))
 
 
+## 2022
+* Respecting causality is all you need for training physics-informed neural networks ([Jax](https://github.com/PredictiveIntelligenceLab/CausalPINNs))
+

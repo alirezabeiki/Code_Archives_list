@@ -14,6 +14,7 @@
 * DG_code: Discontinuous Galerkin solver in cartesian and spherical geometry, ([MATLAB](https://github.com/nickdisca/DG_code))
 * Adaptive Multiresolution DG, ([c++](https://github.com/JuntaoHuang/adaptive-multiresolution-DG))
 * ExaDG - High-Order Discontinuous Galerkin for the Exa-Scale ([c++](https://github.com/exadg/exadg))
+* shenfun - a high performance computing platform for solving partial differential equations (PDEs) by the spectral Galerkin method. ([Python](https://github.com/spectralDNS/shenfun))
 
 
 ## Spectral

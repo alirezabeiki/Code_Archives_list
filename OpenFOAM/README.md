@@ -50,6 +50,13 @@
 * [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
 * [myFoam](https://github.com/furstj/myFoam) - several additional solvers for OpenFOAM.
 
+### Boundary Condition
+* [NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam) - Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow.
+
+### Machine Learning
+* [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
+* [flowtorch](https://github.com/FlowModelingControl/flowtorch) - flowtorch
+
 ## Tutorials:
 
 ### snappyHexMesh
@@ -64,6 +71,7 @@
 * [foam2Columns](https://github.com/ZhangYanTJU/foam2Columns) - foam2Columns
 
 ## Tutorials
+* [cascade-shock_buffet Project](https://github.com/jiaqiwang969/DLR-buffet) - High‐Speed PIV of shock boundary layer interactions in the transonic buffet flow of a compressor cascade.
 * [Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM)
 * [Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM)
 * [Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder)

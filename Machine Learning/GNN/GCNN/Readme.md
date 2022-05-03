@@ -21,6 +21,7 @@
 ## 2020
 * Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks ([TensorFlow](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions))
 * Benchmarking Graph Neural Networks ([Pytorch](https://github.com/graphdeeplearning/benchmarking-gnns))
+* Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling ([TensorFlow](https://github.com/danielegrattarola/decimation-pooling))
 
 
 

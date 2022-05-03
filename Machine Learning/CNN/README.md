@@ -3,6 +3,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
+### 2022
+* A Program to Build {E(N)}-Equivariant Steerable {CNN}s. ([Pytorch](https://github.com/QUVA-Lab/escnn))
+
+
 ## Wavelet Pooling
 
 

@@ -38,5 +38,6 @@
 * When and why PINNs fail to train: A neural tangent kernel perspective. ([TensorFlow](https://github.com/PredictiveIntelligenceLab/PINNsNTK))
 * Physics-informed graph neural Galerkin networks A unified framework for solving PDE-governed forward and inverse problems. ([Noune](https://github.com/Jianxun-Wang/graphGalerkin))
 * Physics-Informed Neural Networks with Hard Constraints for Inverse Design ([TensorFlow](https://github.com/lululxvi/hpinn))
+* Learning the solution operator of parametric partial differential equations with physics-informed DeepONets. ([Jax](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets))
 
 

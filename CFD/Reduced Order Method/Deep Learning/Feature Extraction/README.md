@@ -36,14 +36,19 @@
 
 ## 2021
 * Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, ([TensorFlow](https://github.com/taichimoja/ML-ROM_turbulent_flow))
-* POD-DL-ROM enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition ([TensorFlow](https://github.com/stefaniafresca/POD-DL-ROM))
 * Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoder, ([TensorFlow](https://github.com/Romit-Maulik/CAE_LSTM_ROMS))
 * Fourier Neural Operator for Parametric Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator))
 * Disentangling Generative Factors of Physical Fields Using Variational Autoencoders ([Pytorch](https://github.com/christian-jacobsen/Disentangling-Physical-Fields))
 * Analyzing Koopman approaches to physics-informed machine learning for long-term sea-surface temperature forecasting ([TensorFlow](https://github.com/JRice15/physics-informed-autoencoders))
 * Data-driven identification of 2D Partial Differential Equations using extracted physical features ([Pytorch](https://github.com/BaratiLab/PDE-Identification-Features))
+* A Comprehensive Deep Learning-Based Approach to Reduced Order Modeling of Nonlinear Time-Dependent Parametrized PDEs. ([Python](https://github.com/stefaniafresca/DL-ROM-Meth))
+* Sparse identification of nonlinear dynamics with low-dimensionalized flow representations ([TensorFlow](https://github.com/kfukami/CNN-SINDy-MLROM))
+
 
 ## 2022
 * PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs. ([Pytorch](https://github.com/paulpuren/PhyCRNet))
 * Transformers for modeling physical systems. ([Pyhon](https://github.com/zabaras/transformer-physx))
 * GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations. ([Pytorch](https://github.com/trainsn/GNN-Surrogate))
+* POD-DL-ROM enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition ([TensorFlow](https://github.com/stefaniafresca/POD-DL-ROM))
+* Reduced Order Modeling Using Advection-Aware Autoencoders. ([TensorFlow](https://github.com/erdc/aa_autoencoder_mca))
+* Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data. ([Pytorch, TensorFlow](https://github.com/pswpswpsw/nif))

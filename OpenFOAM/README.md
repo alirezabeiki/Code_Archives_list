@@ -12,7 +12,6 @@
 * [varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2) - varRhoTurbVOF: A new set of volume of fluid solvers for turbulent isothermal multiphase flows in OpenFOAM, 2020.
 * [blastFoam](https://github.com/synthetik-technologies/blastfoam) - blastFoam
 
-
 ## Discretization
 * [WENOEXT](https://github.com/WENO-OF/WENOEXT) - WENO framework.
 
@@ -42,6 +41,9 @@
 ## Discontinuous Galerkin Method
 * [HopeFOAM](https://github.com/HopeFOAM/HopeFOAM) - High Order Parallel Extensible CFD software.
 
+## Optimization
+* [shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam) -  Optimal Shape Design in External Flow with OpenFOAM.
+
 
 ### Solver
 * [rhoDST](https://github.com/DSTECHNO/rhoDST) - a density based solver rhoDST for steady and unsteady simulation of high speed compressible flows over aeronautical vehicles.
@@ -57,6 +59,12 @@
 * [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
 * [flowtorch](https://github.com/FlowModelingControl/flowtorch) - flowtorch
 
+### Libararies
+* LEMOS (University of Rostock) addons for OpenFOAM-2.4.x ([LEMOS-2.4.x](https://github.com/LEMOS-Rostock/LEMOS-2.4.x))
+* PythonFOAM: In-situ data analyses with OpenFOAM and Python. ([PythonFOAM](https://github.com/argonne-lcf/PythonFOAM))
+
+
+
 ## Tutorials:
 
 ### snappyHexMesh
@@ -65,12 +73,13 @@
 ### Dynamic Mesh
 * [VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase) - Vertical-Axis Wind Turbine.
 * [VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh)
+* [OpenFOAM-2D-VAWT](https://github.com/traviscarrigan/OpenFOAM-2D-VAWT)
 
 ### Programming
 * [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!
 * [foam2Columns](https://github.com/ZhangYanTJU/foam2Columns) - foam2Columns
 
-## Tutorials
+### Test Cases
 * [cascade-shock_buffet Project](https://github.com/jiaqiwang969/DLR-buffet) - High‐Speed PIV of shock boundary layer interactions in the transonic buffet flow of a compressor cascade.
 * [Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM)
 * [Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM)
@@ -85,6 +94,7 @@
 * [openfoam_python](https://github.com/openfoamtutorials/openfoam_python) - Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.
 * [airfoilFoam](https://github.com/socrates-ferna/airfoilFoam) - An OpenFOAM automated tool for airfoil 2D CFD analysis.
 * [naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet) - OpenFOAM simulations of transonic shock buffets at a NACA-0012 airfoil.
+* [Python script to run CFD analysis on airfoil using **OpenFOAM** to simulate and **gmsh** to generate mesh](https://github.com/enritoomey/airfoilFOAM)
 
 
 

@@ -1,3 +1,6 @@
+# Long-Short Term Memory
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 ## One Dimensional LSTM
@@ -18,8 +21,16 @@
 
 ## Multiscale LSTM
 
+### 2016
+* MS-LSTM a Multi-Scale LSTM Model for BGP Anomaly Detection. ([TensorFLow](https://github.com/jayvischeng/MSLSTM))
+
 ### 2017
 * Hierarchical Multiscale Recurrent Neural Networks, ([TensorFlow](https://github.com/bolducp/hierarchical-rnn), [TensorFlow](https://github.com/lucaslingle/hm_lstm), [Pytorch](https://github.com/kaiu85/hm-rnn), [Pytorch](https://github.com/HanqingLu/MultiscaleRNN))
 
 ### 2020
 * Inception-inspired LSTM for Next-frame Video Prediction ([TensorFlow](https://github.com/matinhosseiny/Inception-inspired-LSTM-for-Video-frame-Prediction))
+
+## State-Frequency Memory Recurrent Neural Networks
+
+### 2017
+* State-Frequency Memory Recurrent Neural Networks. ([TensorFlow](https://github.com/dlarsen5/AdaptiveSFM))

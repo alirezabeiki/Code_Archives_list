@@ -10,6 +10,7 @@
 * Construction of reduced-order models for fluid flows using deep feedforward neural networks, ([TensorFlow](https://github.com/hugolui/ROM_code))
 * Deep learning of dynamics and signal-noise decomposition with time-stepping constraints, ([TensorFlow](https://github.com/snagcliffs/RKNN))
 * A deep learning enabler for nonintrusive reduced order modeling of fluid flows, ([TensorFlow](https://github.com/surajp92/DNN-based-NIROM))
+* Non-intrusive reduced order modeling of unsteady flows using artificial neural networks with application to a combustion problem. ([TensorFlow](https://github.com/BJUT-SIPL/POD-NN))
 
 ## 2020
 * An Evolve-Then-Correct Reduced Order Model for Hidden Fluid Dynamics, ([TensorFlow](https://github.com/surajp92/ETC_ROM))
@@ -25,6 +26,11 @@
 * Multifidelity computing for coupling full and reduced order models. ([TensorFlow](https://github.com/Shady-Ahmed/ROM-FOM-Coupling))
 * Nonlinear proper orthogonal decomposition for convection-dominated flows. ([TensorFlow](https://github.com/Shady-Ahmed/NLPOD))
 * Assessment of unsteady flow predictions using hybrid deep learning based reducedorder models ([MATLAB](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM))
+* Parallel orthogonal deep neural network. ([Pytorch, TensorFlow](https://github.com/caisr-hh/podnn))
 
 ## 2022
 * A predictive hybrid reduced order model based on proper orthogonal decomposition combined with deep learning architectures. ([TensorFlow](https://github.com/Mlopezm/A-Predictive-Hybrid-ROM-Model-Based-on-Proper-Orthogonal-Decomposition-with-DL-Architectures))
+
+
+## Codes
+* Proper Orthogonal Decomposition - Radial Basis Function (POD-RBF) Network  ([Python](https://github.com/kylebeggs/POD-RBF))

@@ -52,3 +52,4 @@
 * POD-DL-ROM enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition ([TensorFlow](https://github.com/stefaniafresca/POD-DL-ROM))
 * Reduced Order Modeling Using Advection-Aware Autoencoders. ([TensorFlow](https://github.com/erdc/aa_autoencoder_mca))
 * Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data. ([Pytorch, TensorFlow](https://github.com/pswpswpsw/nif))
+* Efficient high-dimensional variational data assimilation with machine-learned reduced-order models. ([TensorFlow](https://github.com/AIEADA/LSTM_Var_Prototype))

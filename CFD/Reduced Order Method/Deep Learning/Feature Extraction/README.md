@@ -43,6 +43,7 @@
 * Data-driven identification of 2D Partial Differential Equations using extracted physical features ([Pytorch](https://github.com/BaratiLab/PDE-Identification-Features))
 * A Comprehensive Deep Learning-Based Approach to Reduced Order Modeling of Nonlinear Time-Dependent Parametrized PDEs. ([Python](https://github.com/stefaniafresca/DL-ROM-Meth))
 * Sparse identification of nonlinear dynamics with low-dimensionalized flow representations ([TensorFlow](https://github.com/kfukami/CNN-SINDy-MLROM))
+* Deep Learning for Reduced Order Modelling and Efficient Temporal Evolution of Fluid Simulations. ([Pytorch](https://github.com/pranshupant/DL-ROM))
 
 
 ## 2022

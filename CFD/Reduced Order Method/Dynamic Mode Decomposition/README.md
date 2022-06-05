@@ -24,6 +24,7 @@
 )
 * Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces, ([Python](https://github.com/pswpswpsw/SKDMD))
 * Phase-consistent dynamic mode decomposition from multiple overlapping spatial domains, ([MATLAB](https://github.com/nairaditya/Phase_consistent_DMD))
+* Dynamic mode decomposition via dictionary learning for foreground modeling in videos, ([MATLAB](https://github.com/Israr-r/dl-DMD-CVIU2020))
 
 ### 2021
 * Learning dominant physical processes with data-driven balance models, ([Python](https://github.com/dynamicslab/dominant-balance))

@@ -22,6 +22,7 @@
 
 ### 2022 
 * Physics-informed deep super-resolution of spatiotemporal data ([Pytorch](https://github.com/paulpuren/PhySR))
+* Predicting high-fidelity multiphysics data from low-fidelity fluid flow and transport solvers using physics-informed neural networks. ([Pytorch](https://github.com/amir-cardiolab/PINN_multiphysics_multifidelity))
 
 
 ## Repositories

@@ -27,6 +27,7 @@
 * Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks. ([TensorFlow](https://github.com/loliverhennigh/Phy-Net))
 * A Lattice Boltzmann fluid flow simulation written in Tensorflow. ([TensorFlow](https://github.com/loliverhennigh/Lattice-Boltzmann-fluid-flow-in-Tensorflow))
 * Neural Network Based Lattice Boltzmann solver. ([TensorFlow](https://github.com/loliverhennigh/latnet))
+* HemeLB - GPU version of HemeLB code (HemePure) ([C++](https://github.com/UCL-CCS/HemePure-GPU))
 
 
 ## Codes

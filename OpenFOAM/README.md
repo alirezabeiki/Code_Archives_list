@@ -6,11 +6,11 @@
 * [openFoamUserManual](https://github.com/yunoicytail/openFoamUserManual) - OpenFOAM
 
 
-## **Solvers**
+## **1. Solvers**
 
-### 1. _Aeroacoustics_
-	* Aeroacoustic Solver for weakly compressible flows. ([Hybrid-Methods-in-Openfoam](https://github.com/jiaqiwang969/Hybrid-Methods-in-Openfoam))
-	* Dynamic Library for Computational Aeroacoustics. ([libAcoustics](https://github.com/unicfdlab/libAcoustics))
+### _1.1 Aeroacoustics_
+* Aeroacoustic Solver for weakly compressible flows. ([Hybrid-Methods-in-Openfoam](https://github.com/jiaqiwang969/Hybrid-Methods-in-Openfoam))
+* Dynamic Library for Computational Aeroacoustics. ([libAcoustics](https://github.com/unicfdlab/libAcoustics))
 
 ### Multiphase
 * Volume of fluid solvers for turbulent isothermal multiphase flows. ([varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2))

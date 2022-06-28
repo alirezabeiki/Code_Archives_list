@@ -12,28 +12,35 @@
 * Aeroacoustic Solver for weakly compressible flows. ([Hybrid-Methods-in-Openfoam](https://github.com/jiaqiwang969/Hybrid-Methods-in-Openfoam))
 * Dynamic Library for Computational Aeroacoustics. ([libAcoustics](https://github.com/unicfdlab/libAcoustics))
 
-### Multiphase
+### _1.2 Compressible Flow_
+* Density based solver for steady and unsteady simulation of high speed compressible flows. ([rhoDST](https://github.com/DSTECHNO/rhoDST))
+
+### _1.3 High-Order Methods_
+
+#### _1.3.1 Discontinuous Galerkin Method_
+* High Order Parallel Extensible CFD software. ([HopeFOAM](https://github.com/HopeFOAM/HopeFOAM)))
+
+#### _1.3.2 Weighted Essentially Non-Oscillatory_
+* WENO for FVM. ([WENOEXT](https://github.com/WENO-OF/WENOEXT))
+
+### _1.4 Hybrid Solvers_
+* Collection of hybrid Central solvers. ([hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers))
+
+### _1.5 Multiphase_
 * Volume of fluid solvers for turbulent isothermal multiphase flows. ([varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2))
 * blastFoam. ([blastFoam](https://github.com/synthetik-technologies/blastfoam)]
 * A porous multiphase toolbox. ([porousMultiphaseFoam](https://github.com/phorgue/porousMultiphaseFoam))
 * Lagrangian Particle Tracking on a GPU. ([GPULagrangianFoam](https://github.com/geekynils/GPULagrangianFoam)) - ([Thesis Link](https://github.com/geekynils/Thesis))
 * Simulation of wave dynamics. ([olaFlow](https://github.com/phicau/olaFlow))
 
-### Compressible Flow
-* Density based solver for steady and unsteady simulation of high speed compressible flows. ([rhoDST](https://github.com/DSTECHNO/rhoDST))
-
-* [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
-* [hybridFoam](https://github.com/xiaoh/hybridFoam) - A dual-mesh hybrid LES/RANS solver in OpenFOAM
-* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
-* [myFoam](https://github.com/furstj/myFoam) - several additional solvers for OpenFOAM.
+### _1.6 Others_
+* several additional solvers for OpenFOAM. ([myFoam](https://github.com/furstj/myFoam))
+*  dual-mesh hybrid LES/RANS solver. (hybridFoam](https://github.com/xiaoh/hybridFoam))
 
 
 
-## High-Order Methods
 
-### Discontinuous Galerkin Method
-* High Order Parallel Extensible CFD software. ([HopeFOAM](https://github.com/HopeFOAM/HopeFOAM)))
-* WENO for FVM. ([WENOEXT](https://github.com/WENO-OF/WENOEXT))
+
 
 
 ### Post Processing 
@@ -67,7 +74,7 @@
 
 ## Optimization
 * [shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam) -  Optimal Shape Design in External Flow with OpenFOAM.
-
+* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
 
 ### Boundary Condition
 * [NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam) - Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow.

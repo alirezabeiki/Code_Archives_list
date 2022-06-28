@@ -31,6 +31,9 @@
 * Challenges in dynamic mode decomposition ([Python](https://deepblue.lib.umich.edu/data/concern/data_sets/cz30ps88z))
 * Physics-informed dynamic mode decomposition (piDMD) ([MATLAB](https://github.com/baddoo/piDMD))
 
+### 2022
+* Dynamic mode decomposition with core sketch, ([Python](https://github.com/Shady-Ahmed/SketchyDMD))
+
 ## Open Source Softwares
 * PyDMD: Python Dynamic Mode Decomposition, ([Python](https://github.com/mathLab/PyDMD))
 

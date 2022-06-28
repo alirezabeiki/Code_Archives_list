@@ -2,18 +2,47 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+## **OpenFOAM Guide**
+* [openFoamUserManual](https://github.com/yunoicytail/openFoamUserManual) - OpenFOAM
+
+
+## **Solvers**
+
+### _Aeroacoustics_
+* Aeroacoustic Solver for weakly compressible flows. ([Hybrid-Methods-in-Openfoam](https://github.com/jiaqiwang969/Hybrid-Methods-in-Openfoam))
+* Dynamic Library for Computational Aeroacoustics. ([libAcoustics](https://github.com/unicfdlab/libAcoustics))
+
+### Multiphase
+* Volume of fluid solvers for turbulent isothermal multiphase flows. ([varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2))
+* blastFoam. ([blastFoam](https://github.com/synthetik-technologies/blastfoam)]
+* A porous multiphase toolbox. ([porousMultiphaseFoam](https://github.com/phorgue/porousMultiphaseFoam))
+* Lagrangian Particle Tracking on a GPU. ([GPULagrangianFoam](https://github.com/geekynils/GPULagrangianFoam)) - ([Thesis Link](https://github.com/geekynils/Thesis))
+* Simulation of wave dynamics. ([olaFlow](https://github.com/phicau/olaFlow))
+
+### Compressible Flow
+* Density based solver for steady and unsteady simulation of high speed compressible flows. ([rhoDST](https://github.com/DSTECHNO/rhoDST))
+
+* [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
+* [hybridFoam](https://github.com/xiaoh/hybridFoam) - A dual-mesh hybrid LES/RANS solver in OpenFOAM
+* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
+* [myFoam](https://github.com/furstj/myFoam) - several additional solvers for OpenFOAM.
+
+
+
+## High-Order Methods
+
+### Discontinuous Galerkin Method
+* High Order Parallel Extensible CFD software. ([HopeFOAM](https://github.com/HopeFOAM/HopeFOAM)))
+* WENO for FVM. ([WENOEXT](https://github.com/WENO-OF/WENOEXT))
+
+
+### Post Processing 
 
 ## Reduced-Order Modeling
 * [AccelerateCFD_CE](https://github.com/IllinoisRocstar/AccelerateCFD_CE) - AccelerateCFD
 * [ITHACA-FV ](https://github.com/mathLab/ITHACA-FV) - POD-Galerkin reduced order methods for CFD using Finite Volume Discretisation: vortex shedding around a circular cylinder, 2017.
 * [mlfoam](https://github.com/AndreWeiner/mlfoam) - OpenFOAM technical committee on data-driven modeling
 
-## Multiphase
-* [varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2) - varRhoTurbVOF: A new set of volume of fluid solvers for turbulent isothermal multiphase flows in OpenFOAM, 2020.
-* [blastFoam](https://github.com/synthetik-technologies/blastfoam) - blastFoam
-
-## Discretization
-* [WENOEXT](https://github.com/WENO-OF/WENOEXT) - WENO framework.
 
 ## Turbulence Modeling
 * [OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM) - code for ShihQuadraticKE turbulence model
@@ -25,10 +54,6 @@
 * [dugksFoam](https://github.com/zhulianhua/dugksFoam) - Discrete unified gas kinetic scheme for all Knudsen number flows: low-speed isothermal case, 2013.
 
 
-## Aeroacoustics
-* [libAcoustics](https://github.com/unicfdlab/libAcoustics) - Development of a Dynamic Library for Computational Aeroacoustics Applications Using the OpenFOAM Open Source Package, 2015.
-
-
 ## Immersed Boundary Method
 * [openHFDIB](https://github.com/fmuni/openHFDIB) - Consistent closures for Euler-Lagrange models of bi-disperse gas-particle suspensions derived from particle-resolved direct numerical simulations, 2017.
 
@@ -38,19 +63,11 @@
 * [multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam) - Generalization of Erik Svenning's solver.
 * [actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver)
 
-## Discontinuous Galerkin Method
-* [HopeFOAM](https://github.com/HopeFOAM/HopeFOAM) - High Order Parallel Extensible CFD software.
+
 
 ## Optimization
 * [shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam) -  Optimal Shape Design in External Flow with OpenFOAM.
 
-
-### Solver
-* [rhoDST](https://github.com/DSTECHNO/rhoDST) - a density based solver rhoDST for steady and unsteady simulation of high speed compressible flows over aeronautical vehicles.
-* [hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers) - United collection of hybrid Central solvers - one-phase, two-phase and multicomponent versions.
-* [hybridFoam](https://github.com/xiaoh/hybridFoam) - A dual-mesh hybrid LES/RANS solver in OpenFOAM
-* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
-* [myFoam](https://github.com/furstj/myFoam) - several additional solvers for OpenFOAM.
 
 ### Boundary Condition
 * [NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam) - Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow.
@@ -67,6 +84,17 @@
 
 
 ## Tutorials:
+
+### Compressible Flow
+* shock boundary layer interactions in the transonic buffet flow of a compressor cascade. ([DLR-buffet](https://github.com/jiaqiwang969/DLR-buffet))
+
+
+### Turbulence Modeling
+* Parametric analysis for SSTtransition turbulence model. ([SSTtransition-turbulence-model](https://github.com/jiaqiwang969/SSTtransition-turbulence-model))
+* Turbulence Model verification. ([Backward Facing Step](https://github.com/jiaqiwang969/backward-step))
+* Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))
+
+
 
 ### snappyHexMesh
 * [pipeflow_snappyHexMesh](https://github.com/theodoreOnzGit/pipeflow_snappyHexMesh) - OpenFoam pipeflow geometry generated using snappyHexMesh
@@ -96,6 +124,7 @@
 * [airfoilFoam](https://github.com/socrates-ferna/airfoilFoam) - An OpenFOAM automated tool for airfoil 2D CFD analysis.
 * [naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet) - OpenFOAM simulations of transonic shock buffets at a NACA-0012 airfoil.
 * [Python script to run CFD analysis on airfoil using **OpenFOAM** to simulate and **gmsh** to generate mesh](https://github.com/enritoomey/airfoilFOAM)
+
 
 
 

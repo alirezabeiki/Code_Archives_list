@@ -16,46 +16,58 @@
 
 ### _1.2 Compressible Flow_
 * Density based solver for steady and unsteady simulation of high speed compressible flows. ([rhoDST](https://github.com/DSTECHNO/rhoDST))
+* modification of rhoCentralFoam with RK4 schme. ([rhoCentralRKFoam](https://github.com/jiaqiwang969/rhoCentralRKFoam), [rhoCentralRK4Foam](https://github.com/SiboLi666/rhoCentralRK4Foam), [rhoCentralFoamRK4Sponge](https://github.com/jiaqiwang969/rhoCentralFoamRK4Sponge))
+* Implict Coupled Simulations. ([ICSFoam](https://github.com/stefanoOliani/ICSFoam))
+* Energy conserving numerical flux is coupled with AUSM+up dissipative fluxes. ([rhoEnergyFoam](https://github.com/davidem88/rhoEnergyFoam))
 
-### _1.3 High-Order Methods_
+#### _1.2.1 All Mach Number_
+* Semi-implicit hybrid solver based on Kurgranov-Tadmore scheme and PISO method. ([pisoCentralFoam](https://github.com/unicfdlab/pisoCentralFoam))
 
-#### _1.3.1 Discontinuous Galerkin Method_
+### _1.3 Combustion_
+* A library for OpenFOAM to handel the PLOG keywords in reactions. ([PLOGArrheniusReactions](https://github.com/ZmengXu/PLOGArrheniusReactions))
+* Transported JPDF Library and Solver for Reactive Flow Simulation. ([pdfFoam](https://github.com/wildmichael/pdfFoam))
+* Using Cantera to calculate species reaction rates. ([CanteraChemistryModel](https://github.com/ZhangYanTJU/CanteraChemistryModel))
+* This solver calls Cantera to update T psi mu alpha D in OpenFOAM. ([reactingCanteraFoam](https://github.com/ZhangYanTJU/reactingCanteraFoam))
+
+### _1.4 High-Order Methods_
+
+#### _1.4.1 Discontinuous Galerkin Method_
 * High Order Parallel Extensible CFD software. ([HopeFOAM](https://github.com/HopeFOAM/HopeFOAM)))
 
-#### _1.3.2 Weighted Essentially Non-Oscillatory_
+#### _1.4.2 Weighted Essentially Non-Oscillatory_
 * WENO for FVM. ([WENOEXT](https://github.com/WENO-OF/WENOEXT))
 
-### _1.4 Hybrid Solvers_
+### _1.5 Hybrid Solvers_
 * Collection of hybrid Central solvers. ([hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers))
 
-### _1.5 Immersed Boundary Method_
+### _1.6 Immersed Boundary Method_
 * Consistent closures for Euler-Lagrange models of bi-disperse gas-particle suspensions derived from particle-resolved direct numerical simulations. ([openHFDIB](https://github.com/fmuni/openHFDIB))
 
-### _1.6 Multiphase_
+### _1.7 Multiphase_
 * Volume of fluid solvers for turbulent isothermal multiphase flows. ([varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2))
 * blastFoam. ([blastFoam](https://github.com/synthetik-technologies/blastfoam)]
 * A porous multiphase toolbox. ([porousMultiphaseFoam](https://github.com/phorgue/porousMultiphaseFoam))
 * Lagrangian Particle Tracking on a GPU. ([GPULagrangianFoam](https://github.com/geekynils/GPULagrangianFoam)) - ([Thesis Link](https://github.com/geekynils/Thesis))
 * Simulation of wave dynamics. ([olaFlow](https://github.com/phicau/olaFlow))
 
-### _1.7 Molecular Dynamics_
+### _1.8 Molecular Dynamics_
 
-#### _1.7.1 DSMC_
+#### _1.8.1 DSMC_
 * hyStrath. ([hyStrath](https://github.com/vincentcasseau/hyStrath))
 
-#### _1.7.2 DUGKS_
+#### _1.8.2 DUGKS_
 * Discrete unified gas kinetic scheme. ([dugksFoam](https://github.com/zhulianhua/dugksFoam))
 
-### _1.8 Source Terms_
+### _1.9 Source Terms_
 * Actuator line modeling of vertical-axis turbines. ([turbinesFoam](https://github.com/turbinesFoam/turbinesFoam))
 * Generalization of Erik Svenning's solver. ([multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam))
 * Actuator Cylinder. ([actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver))
 
-### _1.9 Others_
+### _1.10 Others_
 * several additional solvers for OpenFOAM. ([myFoam](https://github.com/furstj/myFoam))
 * Dual-mesh hybrid LES/RANS solver. (hybridFoam](https://github.com/xiaoh/hybridFoam))
 
-### _1.10 Libararies and Boundary Conditions_
+### _1.11 Libararies and Boundary Conditions_
 * Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow. ([NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam))
 * LEMOS (University of Rostock) addons for OpenFOAM-2.4.x ([LEMOS-2.4.x](https://github.com/LEMOS-Rostock/LEMOS-2.4.x))
 * A real-fluid based thermophysicalModels library OF-6. ([realFluidThermophysicalModels-6](https://github.com/danhnam11/realFluidThermophysicalModels-6))
@@ -89,12 +101,17 @@
 * [mlfoam](https://github.com/AndreWeiner/mlfoam) - OpenFOAM technical committee on data-driven modeling
 </details>
 
+### _4.2 Others_
+* OpenFoam postprocessing python tool. ([fluidfoam](https://github.com/fluiddyn/fluidfoam))
+* Transform OpenFOAM fields to one single file by columns. ([foam2Columns](https://github.com/ZhangYanTJU/foam2Columns))
+
 ## **5. Turbulence Modeling**
 <details>
   <summary>Click to expand!</summary>
   
 * ShihQuadraticKE turbulence model. ([OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM))
 * Several additional models. ([myTurbulenceModels](https://github.com/furstj/myTurbulenceModels))
+* Dynamic Smagorinsky. ([dynamicSmagorinsky](https://github.com/ZhangYanTJU/dynamicSmagorinsky))
 </details>
 
 
@@ -117,6 +134,7 @@
 * Vertical-Axis Wind Turbine. ([VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase))
 * Vertical-Axis Wind Turbine. ([VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh))
 * Vertical-Axis Wind Turbine. ([OpenFOAM-2D-VAWT](https://github.com/traviscarrigan/OpenFOAM-2D-VAWT))
+* Shape Optmisation of a Vertical Axis Wind Turbine using Invasive Weed Optimisation. ([Shape-Opt-VAWT](https://github.com/pranshupant/Shape-Opt-VAWT))
 </details>
 
 ### _3. Incompressible Flow_
@@ -142,7 +160,13 @@
 * Flow past a car. ([Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM))
 </details>
 
-### _5. Source Terms_
+### _5. Optimization_
+<details>
+  <summary>Click to expand!</summary>
+  
+* Shape Optmisation of a Vertical Axis Wind Turbine using Invasive Weed Optimisation. ([Shape-Opt-VAWT](https://github.com/pranshupant/Shape-Opt-VAWT))
+</details>
+### _6. Source Terms_
 <details>
   <summary>Click to expand!</summary>
   
@@ -150,7 +174,7 @@
 * Wind farm by actuator disk. ([actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)])
 </details>
 
-### _6. Turbulence Modeling_
+### _7. Turbulence Modeling_
 <details>
   <summary>Click to expand!</summary>
   
@@ -159,7 +183,7 @@
 * Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))
 </details>
 
-### _7. Utilities_
+### _8. Utilities_
 <details>
   <summary>Click to expand!</summary>
   

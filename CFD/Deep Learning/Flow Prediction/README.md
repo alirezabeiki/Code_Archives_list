@@ -26,7 +26,8 @@
 * Generalization techniques of neural networks for fluid flow estimation. ([TensorFlow](https://github.com/Masaki-Morimoto/Grad-CAM_for_fluid-flows))
 
 
-
+### NASA
+* Lift and Drag prediction of airfoil with Graph NN. ([airfoil-learning](https://github.com/nasa/airfoil-learning), [MGN](https://github.com/pjuangph/MGN))
 
 
 

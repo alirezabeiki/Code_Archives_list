@@ -62,27 +62,40 @@
 </details>
   
 ## **2. Machine Learning in OpenFOAM**
+<details>
+  <summary>Click to expand!</summary>
+
 * [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
 * Flowtorch. ([flowtorch](https://github.com/FlowModelingControl/flowtorch))
 * PythonFOAM: In-situ data analyses with OpenFOAM and Python. ([PythonFOAM](https://github.com/argonne-lcf/PythonFOAM))
 
+</details>
+
 ## **3. Optimization**
+<details>
+  <summary>Click to expand!</summary>
+  
 * Optimal Shape Design in External. ([shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam))
 * Discrete Adjoint with OpenFOAM. ([dafoam](https://github.com/mdolab/dafoam))
-
+</details>
 
 ## **4. Post Processing**
+<details>
+  <summary>Click to expand!</summary>
 
 ### _4.1 Reduced-Order Modeling_
 * [AccelerateCFD_CE](https://github.com/IllinoisRocstar/AccelerateCFD_CE) - AccelerateCFD
 * [ITHACA-FV ](https://github.com/mathLab/ITHACA-FV) - POD-Galerkin reduced order methods for CFD using Finite Volume Discretisation: vortex shedding around a circular cylinder, 2017.
 * [mlfoam](https://github.com/AndreWeiner/mlfoam) - OpenFOAM technical committee on data-driven modeling
-
+</details>
 
 ## **5. Turbulence Modeling**
+<details>
+  <summary>Click to expand!</summary>
+  
 * ShihQuadraticKE turbulence model. ([OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM))
 * Several additional models. ([myTurbulenceModels](https://github.com/furstj/myTurbulenceModels))
-
+</details>
 
 # Tutorials:
 

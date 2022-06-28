@@ -97,47 +97,83 @@
 * Several additional models. ([myTurbulenceModels](https://github.com/furstj/myTurbulenceModels))
 </details>
 
-# Tutorials:
 
-## **Compressible Flow**
+## **Tutorials**
+
+### _1. Compressible Flow_
+<details>
+  <summary>Click to expand!</summary>
+  
 * shock boundary layer interactions in the transonic buffet flow of a compressor cascade. ([DLR-buffet](https://github.com/jiaqiwang969/DLR-buffet))
+* Transonic Airoil. ([transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution))
+* Transonic Nozzle. ([transonicNozzle](https://github.com/tahayasardemir/transonicNozzle))
+* Transonic shock buffets at a NACA-0012 airfoil. ([naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet))
+</details>
 
+### _2. Dynamic Mesh_
+<details>
+  <summary>Click to expand!</summary>
+  
+* Vertical-Axis Wind Turbine. ([VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase))
+* Vertical-Axis Wind Turbine. ([VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh))
+* Vertical-Axis Wind Turbine. ([OpenFOAM-2D-VAWT](https://github.com/traviscarrigan/OpenFOAM-2D-VAWT))
+</details>
 
-## **Turbulence Modeling**
+### _3. Incompressible Flow_
+<details>
+  <summary>Click to expand!</summary>
+  
+* Flow past an airfoil. ([airfoilFoam](https://github.com/socrates-ferna/airfoilFoam))
+* NACA airfoil simulation. ([NACAFoil-OpenFOAM](https://github.com/petebachant/NACAFoil-OpenFOAM))
+* Python script to run CFD analysis on airfoil using **OpenFOAM** to simulate and **gmsh** to generate mesh. ([Case](https://github.com/enritoomey/airfoilFOAM))
+</details>
+
+### _4. Mesh Generation_
+<details>
+  <summary>Click to expand!</summary>
+  
+#### _4.1 Block Mesh_
+* Flow past a cylinder. ([Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder))
+* Flow past an 2D Airfoil. ([airfoil2D](https://github.com/EdgarAMO/airfoil2D))
+
+#### _4.2 snappyHexMesh_
+* 3D Circular Pipe. ([pipeflow_snappyHexMesh](https://github.com/theodoreOnzGit/pipeflow_snappyHexMesh))
+* Flow past a sphere. (Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM))
+* Flow past a car. ([Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM))
+</details>
+
+### _5. Source Terms_
+<details>
+  <summary>Click to expand!</summary>
+  
+* VAWT by ALM. ([NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam))
+* Wind farm by actuator disk. ([actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)])
+</details>
+
+### _6. Turbulence Modeling_
+<details>
+  <summary>Click to expand!</summary>
+  
 * Parametric analysis for SSTtransition turbulence model. ([SSTtransition-turbulence-model](https://github.com/jiaqiwang969/SSTtransition-turbulence-model))
 * Turbulence Model verification. ([Backward Facing Step](https://github.com/jiaqiwang969/backward-step))
 * Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))
+</details>
 
+### _7. Utilities_
+<details>
+  <summary>Click to expand!</summary>
+  
+* Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.. ([openfoam_python](https://github.com/openfoamtutorials/openfoam_python))
+* OpenFOAM cases from my YouTube channel. ([OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo))
+</details>
 
-
-### snappyHexMesh
-* [pipeflow_snappyHexMesh](https://github.com/theodoreOnzGit/pipeflow_snappyHexMesh) - OpenFoam pipeflow geometry generated using snappyHexMesh
-
-### Dynamic Mesh
-* [VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase) - Vertical-Axis Wind Turbine.
-* [VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh)
-* [OpenFOAM-2D-VAWT](https://github.com/traviscarrigan/OpenFOAM-2D-VAWT)
-
-### Programming
+## **Programming**
+<details>
+  <summary>Click to expand!</summary>
+  
 * [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!
 * [foam2Columns](https://github.com/ZhangYanTJU/foam2Columns) - foam2Columns
-
-### Test Cases
-* [cascade-shock_buffet Project](https://github.com/jiaqiwang969/DLR-buffet) - High‐Speed PIV of shock boundary layer interactions in the transonic buffet flow of a compressor cascade.
-* [Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM)
-* [Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM)
-* [Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder)
-* [airfoil2D](https://github.com/EdgarAMO/airfoil2D)
-* [actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)]
-* [NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam)
-* [transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution)
-* [transonicNozzle](https://github.com/tahayasardemir/transonicNozzle)
-* [OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo) - OpenFOAM cases from my YouTube channel
-* [NACAFoil-OpenFOAM](https://github.com/petebachant/NACAFoil-OpenFOAM) - OpenFOAM case files for simulating NACA foils.
-* [openfoam_python](https://github.com/openfoamtutorials/openfoam_python) - Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.
-* [airfoilFoam](https://github.com/socrates-ferna/airfoilFoam) - An OpenFOAM automated tool for airfoil 2D CFD analysis.
-* [naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet) - OpenFOAM simulations of transonic shock buffets at a NACA-0012 airfoil.
-* [Python script to run CFD analysis on airfoil using **OpenFOAM** to simulate and **gmsh** to generate mesh](https://github.com/enritoomey/airfoilFOAM)
+</details>
 
 
 

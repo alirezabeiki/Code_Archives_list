@@ -7,7 +7,8 @@
 
 
 ## **1. Solvers**
-
+<details>
+  <summary>Click to expand!</summary>
 ### _1.1 Aeroacoustics_
 * Aeroacoustic Solver for weakly compressible flows. ([Hybrid-Methods-in-Openfoam](https://github.com/jiaqiwang969/Hybrid-Methods-in-Openfoam))
 * Dynamic Library for Computational Aeroacoustics. ([libAcoustics](https://github.com/unicfdlab/libAcoustics))
@@ -57,7 +58,8 @@
 * Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow. ([NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam))
 * LEMOS (University of Rostock) addons for OpenFOAM-2.4.x ([LEMOS-2.4.x](https://github.com/LEMOS-Rostock/LEMOS-2.4.x))
 * A real-fluid based thermophysicalModels library OF-6. ([realFluidThermophysicalModels-6](https://github.com/danhnam11/realFluidThermophysicalModels-6))
-
+</details>
+  
 ## **2. Machine Learning in OpenFOAM**
 * [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
 * Flowtorch. ([flowtorch](https://github.com/FlowModelingControl/flowtorch))

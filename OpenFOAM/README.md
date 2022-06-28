@@ -26,77 +26,68 @@
 ### _1.4 Hybrid Solvers_
 * Collection of hybrid Central solvers. ([hybridCentralSolvers ](https://github.com/unicfdlab/hybridCentralSolvers))
 
-### _1.5 Multiphase_
+### _1.5 Immersed Boundary Method_
+* Consistent closures for Euler-Lagrange models of bi-disperse gas-particle suspensions derived from particle-resolved direct numerical simulations. ([openHFDIB](https://github.com/fmuni/openHFDIB))
+
+### _1.6 Multiphase_
 * Volume of fluid solvers for turbulent isothermal multiphase flows. ([varRhoTurbVOF](https://github.com/wenyuan-fan/varRhoTurbVOF_2))
 * blastFoam. ([blastFoam](https://github.com/synthetik-technologies/blastfoam)]
 * A porous multiphase toolbox. ([porousMultiphaseFoam](https://github.com/phorgue/porousMultiphaseFoam))
 * Lagrangian Particle Tracking on a GPU. ([GPULagrangianFoam](https://github.com/geekynils/GPULagrangianFoam)) - ([Thesis Link](https://github.com/geekynils/Thesis))
 * Simulation of wave dynamics. ([olaFlow](https://github.com/phicau/olaFlow))
 
-### _1.6 Others_
+### _1.7 Molecular Dynamics_
+
+#### _1.7.1 DSMC_
+* hyStrath. ([hyStrath](https://github.com/vincentcasseau/hyStrath))
+
+#### _1.7.2 DUGKS_
+* Discrete unified gas kinetic scheme. ([dugksFoam](https://github.com/zhulianhua/dugksFoam))
+
+### _1.8 Source Terms_
+* Actuator line modeling of vertical-axis turbines. ([turbinesFoam](https://github.com/turbinesFoam/turbinesFoam))
+* Generalization of Erik Svenning's solver. ([multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam))
+* Actuator Cylinder. ([actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver))
+
+### _1.9 Others_
 * several additional solvers for OpenFOAM. ([myFoam](https://github.com/furstj/myFoam))
-*  dual-mesh hybrid LES/RANS solver. (hybridFoam](https://github.com/xiaoh/hybridFoam))
+* Dual-mesh hybrid LES/RANS solver. (hybridFoam](https://github.com/xiaoh/hybridFoam))
+
+### _1.10 Libararies and Boundary Conditions_
+* Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow. ([NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam))
+* LEMOS (University of Rostock) addons for OpenFOAM-2.4.x ([LEMOS-2.4.x](https://github.com/LEMOS-Rostock/LEMOS-2.4.x))
+* A real-fluid based thermophysicalModels library OF-6. ([realFluidThermophysicalModels-6](https://github.com/danhnam11/realFluidThermophysicalModels-6))
+
+## **2. Machine Learning in OpenFOAM**
+* [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
+* Flowtorch. ([flowtorch](https://github.com/FlowModelingControl/flowtorch))
+* PythonFOAM: In-situ data analyses with OpenFOAM and Python. ([PythonFOAM](https://github.com/argonne-lcf/PythonFOAM))
+
+## **3. Optimization**
+* Optimal Shape Design in External. ([shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam))
+* Discrete Adjoint with OpenFOAM. ([dafoam](https://github.com/mdolab/dafoam))
 
 
+## **4. Post Processing**
 
-
-
-
-
-### Post Processing 
-
-## Reduced-Order Modeling
+### _4.1 Reduced-Order Modeling_
 * [AccelerateCFD_CE](https://github.com/IllinoisRocstar/AccelerateCFD_CE) - AccelerateCFD
 * [ITHACA-FV ](https://github.com/mathLab/ITHACA-FV) - POD-Galerkin reduced order methods for CFD using Finite Volume Discretisation: vortex shedding around a circular cylinder, 2017.
 * [mlfoam](https://github.com/AndreWeiner/mlfoam) - OpenFOAM technical committee on data-driven modeling
 
 
-## Turbulence Modeling
-* [OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM) - code for ShihQuadraticKE turbulence model
-* [myTurbulenceModels](https://github.com/furstj/myTurbulenceModels) - several additional models for OpenFOAM
+## **5. Turbulence Modeling**
+* ShihQuadraticKE turbulence model. ([OpenFOAM](https://github.com/sagarsaroha18/OpenFOAM))
+* Several additional models. ([myTurbulenceModels](https://github.com/furstj/myTurbulenceModels))
 
 
-## Molecular Dynamics
-* [hyStrath](https://github.com/vincentcasseau/hyStrath) - hyStrath
-* [dugksFoam](https://github.com/zhulianhua/dugksFoam) - Discrete unified gas kinetic scheme for all Knudsen number flows: low-speed isothermal case, 2013.
+# Tutorials:
 
-
-## Immersed Boundary Method
-* [openHFDIB](https://github.com/fmuni/openHFDIB) - Consistent closures for Euler-Lagrange models of bi-disperse gas-particle suspensions derived from particle-resolved direct numerical simulations, 2017.
-
-
-## Actuator Method
-* [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - Actuator line modeling of vertical-axis turbines, 2016.
-* [multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam) - Generalization of Erik Svenning's solver.
-* [actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver)
-
-
-
-## Optimization
-* [shapeOptimizationFoam](https://github.com/joslorgom/shapeOptimizationFoam) -  Optimal Shape Design in External Flow with OpenFOAM.
-* [dafoam](https://github.com/mdolab/dafoam) - DAFoam: Discrete Adjoint with OpenFOAM.
-
-### Boundary Condition
-* [NSCBC-openfoam](https://github.com/jiaqiwang969/NSCBC-openfoam) - Partially reflecting and non-reflecting boundary conditions for simulation of compressible viscous flow.
-
-### Machine Learning
-* [smartsim-openFOAM](https://github.com/CrayLabs/smartsim-openFOAM)
-* [flowtorch](https://github.com/FlowModelingControl/flowtorch) - flowtorch
-
-### Libararies
-* LEMOS (University of Rostock) addons for OpenFOAM-2.4.x ([LEMOS-2.4.x](https://github.com/LEMOS-Rostock/LEMOS-2.4.x))
-* PythonFOAM: In-situ data analyses with OpenFOAM and Python. ([PythonFOAM](https://github.com/argonne-lcf/PythonFOAM))
-* A real-fluid based thermophysicalModels library OF-6. ([realFluidThermophysicalModels-6](https://github.com/danhnam11/realFluidThermophysicalModels-6))
-
-
-
-## Tutorials:
-
-### Compressible Flow
+## **Compressible Flow**
 * shock boundary layer interactions in the transonic buffet flow of a compressor cascade. ([DLR-buffet](https://github.com/jiaqiwang969/DLR-buffet))
 
 
-### Turbulence Modeling
+## **Turbulence Modeling**
 * Parametric analysis for SSTtransition turbulence model. ([SSTtransition-turbulence-model](https://github.com/jiaqiwang969/SSTtransition-turbulence-model))
 * Turbulence Model verification. ([Backward Facing Step](https://github.com/jiaqiwang969/backward-step))
 * Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))

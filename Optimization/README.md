@@ -15,6 +15,9 @@
 ### 2021
 * Direct shape optimization through deep reinforcement learning ([TensorFlow](https://github.com/jviquerat/drl_shape_optimization))
 
+### 2022
+* Multi-fidelity reinforcement learning framework for shape optimization. ([TensorFlow](https://github.com/Romit-Maulik/PAR-RL))
+
 
 
 ## Open Source Softwares

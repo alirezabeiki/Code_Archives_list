@@ -49,7 +49,7 @@
 ### 2021
 * Physics-informed Dyna-Style Model-Based Deep Reinforcement Learning for Dynamic Control ([Pytorch](https://github.com/Jianxun-Wang/PIMBRL))
 * Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations ([Pytorch](https://github.com/benmoseley/FBPINNs))
-*  Learning the solution operator of parametric partial differential equations with physics-informed {DeepONets} ([Python](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets))
+* Learning the solution operator of parametric partial differential equations with physics-informed {DeepONets} ([Python](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets))
 * On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks ([TensorFlow](https://github.com/PredictiveIntelligenceLab/MultiscalePINNs))
 * SPINN: Sparse, Physics-based, and partially Interpretable Neural Networks for PDEs ([Pytorch](https://github.com/nn4pde/SPINN))
 * Fourier Neural Operator for Parametric Partial Differential Equations. ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator))
@@ -66,6 +66,9 @@
 * Respecting causality is all you need for training physics-informed neural networks ([Jax](https://github.com/PredictiveIntelligenceLab/CausalPINNs))
 * Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems. ([Pytorch](https://github.com/Jianxun-Wang/graphGalerkin))
 * Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks. ([Pytorch](https://github.com/rmojgani/LPINNs))
+* Predicting high-fidelity multiphysics data from low-fidelity fluid flow and transport solvers using physics-informed neural networks. ([PyTorch](https://github.com/amir-cardiolab/PINN_multiphysics_multifidelity))
+* Wavelet Neural Operator A Neural Operator for parametric Partial Differential Equations.
+* Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport. ([DeepONets](https://github.com/lu-group/multifidelity-deeponet))
 
 
 ## Open Source Softwares

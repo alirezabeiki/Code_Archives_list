@@ -29,3 +29,4 @@
 
 * ConvLSTM & ConvGRU by return_sequence=False ([Pytorch](https://github.com/TrevorIkky/ConvRNNs))
 * GAN based ConvLSTM in precipitation prediction ([Pytorch](https://github.com/Mikubill/GAN-ConvLSTM))
+* An implementation of convolutional LSTM with 4 variants of attention mechanism. ([Pytorch](https://github.com/xg416/ConvLSTM))

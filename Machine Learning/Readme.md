@@ -7,6 +7,7 @@
 * Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks. ([TensorFlow](https://github.com/jeffheaton/t81_558_deep_learning))
 * Coursera Machine Learning MOOC by Andrew Ng. ([Python](https://github.com/dibgerge/ml-coursera-python-assignments))
 * [TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+* A place to discover the latest machine learning courses on YouTube. ([YouTube](https://github.com/dair-ai/ML-YouTube-Courses))
 
 ## Books:
 * [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
@@ -21,6 +22,9 @@
 * [Keras-Tutorials](https://github.com/xingkongliang/Keras-Tutorials)
 * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials)
 * A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. ([Pytorch](https://github.com/pytorch/examples))
+
+## Repositories
+* Machine Learning From Scratch. ([Python](https://github.com/eriklindernoren/ML-From-Scratch))
 
 
 

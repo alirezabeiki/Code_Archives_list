@@ -30,6 +30,9 @@
 * Learning dominant physical processes with data-driven balance models, ([Python](https://github.com/dynamicslab/dominant-balance))
 * Challenges in dynamic mode decomposition ([Python](https://deepblue.lib.umich.edu/data/concern/data_sets/cz30ps88z))
 * Physics-informed dynamic mode decomposition (piDMD) ([MATLAB](https://github.com/baddoo/piDMD))
+* Streaming dynamic mode decomposition for short-termforecasting in wind farms. ([Python](https://github.com/jaimeliew1/Streaming-DMD))
+* Sparsity-promoting algorithms for the discovery of informative Koopman-invariant subspaces. ([Python](https://github.com/pswpswpsw/SKDMD))
+
 
 ### 2022
 * Dynamic mode decomposition with core sketch, ([Python](https://github.com/Shady-Ahmed/SketchyDMD))
@@ -41,3 +44,7 @@
 ## Codes
 * [SPOD-DMD](https://github.com/xuanshi123/SPOD-DMD)
 * DMD ([Python](https://github.com/hanyoseob/python-DMD))
+* Scale-separated Dynamic Mode Decomposition (SSDMD) on ionospheric profiles. ([MATLAB](https://github.com/JayLago/SSDMD-Ionosphere))
+* DMD Pack. ([Python](https://github.com/erichson/DMDpack))
+* Dynamic Mode Decomposition (DMD) ([MATLAB](https://github.com/hanyoseob/matlab-DMD))
+* A Python Implementation of Dynamic Mode Decomposition. ([Python](https://github.com/mukappalambda/Dynamic-Mode-Decomposition))

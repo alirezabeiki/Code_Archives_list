@@ -13,7 +13,6 @@
 * Prediction of turbulent heat transfer using convolutional neural networks. ([TensorFlow](https://github.com/junhyuk6/THT-CNN))
 
 ### 2021
-* A twin-decoder structure for incompressible laminar flow reconstruction with uncertainty estimation around 2D obstacles. ([TensorFlow](https://github.com/jviquerat/twin_autoencoder))
 * Embedding Physics to Learn Spatiotemporal Dynamics from Sparse Data. ([Pytorch](https://github.com/Raocp/PeRCNN))
 * Graph neural networks for laminar flow prediction around random two-dimensional shapes. ([TensorFlow](https://github.com/jviquerat/gnn_laminar_flow))
 * PID-GAN A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics. ([Pytorch](https://github.com/arkadaw9/PID-GAN))
@@ -24,6 +23,8 @@
 
 ### 2022
 * Generalization techniques of neural networks for fluid flow estimation. ([TensorFlow](https://github.com/Masaki-Morimoto/Grad-CAM_for_fluid-flows))
+* A deep learning approach for the transonic flow field predictions around airfoils. ([Pytorch](https://github.com/Rakuen88/CNNFOIL))
+* A twin-decoder structure for incompressible laminar flow reconstruction with uncertainty estimation around 2D obstacles. ([TensorFlow](https://github.com/jviquerat/twin_autoencoder))
 
 
 ### NASA

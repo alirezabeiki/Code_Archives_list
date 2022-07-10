@@ -32,6 +32,8 @@
 * Deep learning-based reduced order models in cardiac electrophysiology ([TensorFlow](https://github.com/stefaniafresca/DL-ROM))
 * Neural Operator: Graph Kernel Network for Partial Differential Equations, ([Pytorch](https://github.com/zongyi-li/graph-pde))
 * Model Order Reduction using a Deep Orthogonal Decomposition ([Unknown](https://github.com/danieljtait/mordod))
+* Forecasting Sequential Data Using Consistent Koopman Autoencoders. ([Pytorch](https://github.com/erichson/koopmanAE))
+
 
 ## 2021
 * Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, ([TensorFlow](https://github.com/taichimoja/ML-ROM_turbulent_flow))
@@ -56,5 +58,5 @@
 * Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data. ([Pytorch, TensorFlow](https://github.com/pswpswpsw/nif))
 * Efficient high-dimensional variational data assimilation with machine-learned reduced-order models. ([TensorFlow](https://github.com/AIEADA/LSTM_Var_Prototype))
 * Predicting parametric spatiotemporal dynamics by multi-resolution PDE structure-preserved deep learning. ([Pytorch](https://github.com/Jianxun-Wang/PPNN))
-
+* Transformer for Partial Differential Equations’ Operator Learning. ([Pytorch](https://github.com/zongyi-li/fourier_neural_operator), [Pytorch](https://github.com/gaurav71531/mwt-operator), [Pytorch](https://github.com/scaomath/galerkin-transformer))
 

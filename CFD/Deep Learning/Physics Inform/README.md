@@ -60,7 +60,7 @@
 * Physics-Informed Deep Learning and its Application in Computational Solid and Fluid Mechanics. ([Pytorch](https://github.com/alexpapados/Physics-Informed-Deep-Learning-Solid-and-Fluid-Mechanics))
 * Physics-informed neural networks with hard constraints for inverse design. ([TensorFlow](https://github.com/lululxvi/hpinn))
 * On the eigenvector bias of fourier feature networks: From regression to solving multi-scale pdes with physics-informed neural networks. ([TensorFlow](https://github.com/PredictiveIntelligenceLab/MultiscalePINNs))
-
+* Machine learning–accelerated computational fluid dynamics. ([JAX](https://github.com/google/jax-cfd))
 
 ### 2022
 * Respecting causality is all you need for training physics-informed neural networks ([Jax](https://github.com/PredictiveIntelligenceLab/CausalPINNs))

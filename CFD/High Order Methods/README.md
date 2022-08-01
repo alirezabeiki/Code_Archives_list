@@ -8,6 +8,7 @@
 ### Flux Reconstruction
 * PyFR, ([Python](https://github.com/PyFR/PyFR))
 * FluxReconstruction, ([Julia](https://github.com/vavrines/FluxReconstruction.jl))
+* Flux Reconstruction Educational Implementation (Gitlab mirror) ([Chapel](https://github.com/redhatturtle/frei))
 
 ### Discontinuous Galerkin
 * FLEXI: Discontinuous Galerkin Spectral Element Method (DGSEM), ([Fortran](https://github.com/flexi-framework/flexi))

@@ -9,6 +9,9 @@
 
 ## Fortran
 
+### Books
+* CUDA Fortran for Scientists and Engineers. ([Fortran](https://github.com/bakmano737/CUDA-Fortran-Book))
+
 ### Github Pages
 *  Directory of Fortran codes on GitHub, arranged by topic. ([Github](https://github.com/Beliavsky/Fortran-code-on-GitHub#computational-fluid-dynamics))
 

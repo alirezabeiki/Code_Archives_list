@@ -22,6 +22,8 @@
 * [Keras-Tutorials](https://github.com/xingkongliang/Keras-Tutorials)
 * [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials)
 * A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. ([Pytorch](https://github.com/pytorch/examples))
+* The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ([Pyotrch](https://github.com/ritchieng/the-incredible-pytorch))
+
 
 ## Repositories
 * Machine Learning From Scratch. ([Python](https://github.com/eriklindernoren/ML-From-Scratch))

@@ -2,6 +2,14 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+## Books
+
+### 2011
+Lattice Boltzmann Method Fundamentals and Engineering Applications with Computer Codes. ([c++](https://github.com/zmhhaha/LBM-Cplusplus-A.A.Mohamad), [Python](https://github.com/Jeff-Hugh/LBM_Applications))
+
+### 2017
+The Lattice Boltzmann Method: Principles and Practice. ([C++](https://github.com/lbm-principles-practice/code))
+
 ## Papers
 
 ### 2011
@@ -34,4 +42,5 @@
 * A simple lattice-Boltzmann code for 2D flow resolutions, ([Python](https://github.com/jviquerat/lbm))
 * Lattice Boltzmann for Fluid Dynamics. ([Python](https://github.com/LarsZondag/latticeboltzmann))
 * Codes for solving gas flow problems based on the Unified Gas-Kinetic Scheme. ([Fortran](https://github.com/zhulianhua/UGKS))
+* Lattice Boltzmann fluid simulation. ([Python](https://github.com/pmocz/latticeboltzmann-python))
 

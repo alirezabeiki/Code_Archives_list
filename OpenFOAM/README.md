@@ -81,7 +81,7 @@
 * Flowtorch. ([flowtorch](https://github.com/FlowModelingControl/flowtorch))
 * PythonFOAM: In-situ data analyses with OpenFOAM and Python. ([PythonFOAM](https://github.com/argonne-lcf/PythonFOAM))
 * Deploying deep learning in OpenFOAM with TensorFlow. ([TensorFlowFoam](https://github.com/argonne-lcf/TensorFlowFoam))
-
+* Thoughts about ML committee for OpenFOAM. ([mlfoam](https://github.com/OFDataCommittee/mlfoam))
 </details>
 
 ## **3. Optimization**
@@ -117,6 +117,7 @@
 * A library for wall-modelled Large-Eddy Simulation in OpenFOAM. Mirrored from. ([libWallModelledLES](https://github.com/timofeymukha/libWallModelledLES))
 * A set of codes developed for LES in OpenFOAM. ([TurbLab](https://github.com/syavash20/TurbLab))
 * Low-Reynolds rough wall functions for the kOmegaSST model from OpenFOAM. ([lowReRoughWallBCs](https://github.com/esteldunedain/lowReRoughWallBCs))
+* The library and utilities for combining URANS and LES approaches for modelling turbulent flows by means of zonal isolation of the computational domain. ([hybridTurbulenceModel](https://github.com/eacfd/hybridTurbulenceModel))
 </details>
 
 ## **6. Utilities**
@@ -202,6 +203,7 @@
 * Parametric analysis for SSTtransition turbulence model. ([SSTtransition-turbulence-model](https://github.com/jiaqiwang969/SSTtransition-turbulence-model))
 * Turbulence Model verification. ([Backward Facing Step](https://github.com/jiaqiwang969/backward-step))
 * Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))
+* Jupyter notebook to calculate various initial values of nut, k, epsilon, omega etc., as well as yPlus and other useful parameters. ([OpenFoamCaseSetupWithPython](https://github.com/aqeelahmed168/OpenFoamCaseSetupWithPython))
 </details>
 
 ### _8. Utilities_
@@ -211,6 +213,14 @@
 * Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.. ([openfoam_python](https://github.com/openfoamtutorials/openfoam_python))
 * OpenFOAM cases from my YouTube channel. ([OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo))
 </details>
+
+### _9. Multiphase_
+<details>
+  <summary>Click to expand!</summary>
+  
+implement the Local Time Stepping (LTS) scheme on OpenFOAM. ([DamReservoirLTS](https://github.com/esteldunedain/DamReservoirLTS))
+</details>
+
 
 ## **Programming**
 <details>

@@ -10,6 +10,8 @@
 
 ## Lectures:
 * A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes. ([Python](https://github.com/barbagroup/CFDPython))
+* All the handwritten notes and source code files used in my YouTube Videos on Machine Learning & Simulation. ([machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation))
+* Introduction to Computational Fluid Dynamics at the University of Vermont. ([Python](https://github.com/yvesdubief/UVM-ME249-CFD))
 
 ## Books
 

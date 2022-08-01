@@ -36,6 +36,9 @@
 
 ### 2022
 * Dynamic mode decomposition with core sketch, ([Python](https://github.com/Shady-Ahmed/SketchyDMD))
+* Bagging, optimized dynamic mode decomposition for robust, stable forecasting with spatial and temporal uncertainty quantification. ([MATLAB](https://github.com/dsashid/BOP-DMD))
+
+
 
 ## Open Source Softwares
 * PyDMD: Python Dynamic Mode Decomposition, ([Python](https://github.com/mathLab/PyDMD))

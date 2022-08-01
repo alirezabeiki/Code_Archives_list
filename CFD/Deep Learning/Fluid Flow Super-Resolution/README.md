@@ -28,7 +28,7 @@
 ## Repositories
 * Physics-informed deep super-resolution of spatiotemporal data. ([Pytorch](https://github.com/paulpuren/PhySR))
 * Blind Deconvolution of Turbulent Flows using Super-Resolution Reconstruction. ([TensorFlow](https://github.com/sayin/Physics_informed_GANs_turbulent_flows))
-
+* Turbulence Enrichment using Generative Adversarial Networks. ([TensorFLow](https://github.com/akshaysubr/TEGAN))
 
 
 

@@ -30,7 +30,7 @@
 
 ## 2022
 * A predictive hybrid reduced order model based on proper orthogonal decomposition combined with deep learning architectures. ([TensorFlow](https://github.com/Mlopezm/A-Predictive-Hybrid-ROM-Model-Based-on-Proper-Orthogonal-Decomposition-with-DL-Architectures))
-
+* Neural-network learning of SPOD latent dynamics. ([TensorFlow](https://github.com/mathe-lab/PySPOD))
 
 ## Codes
 * Proper Orthogonal Decomposition - Radial Basis Function (POD-RBF) Network  ([Python](https://github.com/kylebeggs/POD-RBF))

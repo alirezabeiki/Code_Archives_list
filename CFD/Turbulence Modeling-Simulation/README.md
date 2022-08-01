@@ -34,6 +34,9 @@
 * STREAmS: A high-fidelity accelerated solver for direct numerical simulation of compressible turbulent flows. ([Fortran](https://github.com/matteobernardini/STREAmS))
 
 
+## Courses
+* Python notebooks for turbulence. ([turbulence_2021](https://github.com/joelguerrero/turbulence_2021), [turbulence_2020](https://github.com/joelguerrero/turbulence_2020))
+* Course materials from Large-Eddy Simulation of Turbulent Flows. ([LES](https://github.com/jeremygibbs/LES))
 
 ## Open Source Softwares
 

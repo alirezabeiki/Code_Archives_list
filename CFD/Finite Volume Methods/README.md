@@ -2,6 +2,8 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+## Codes of Books
+* The Finite Volume Method in Computational Fluid Dynamics An Advanced Introduction with OpenFOAM® and Matlab, 2015, ([MATLAB](https://github.com/mhamadAlloush/uFVM))
 
 ## Open Source Softwares
 * CFL3D is a structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code. ([Fortran](https://github.com/nasa/CFL3D))
@@ -26,3 +28,7 @@
 * A compressible Euler equations solver using kinetic flux vector splitting (KFVS) scheme. ([Fortran](https://github.com/truongd8593/euler2D-kfvs-Fortran2003))
 * Basic CFD solvers written in Fortran. ([Fortran](https://github.com/corygoates/Flow81)) 
 * FvCFD.jl - FvCFD.jl is a simple explicit compressible Euler solver for 3D unstructured polyhedral meshes. ([Julia](https://github.com/henrystoldt/FvCFD.jl))
+* Simple (and not-so-simple) CFD solvers written in Fortran with Python plotting routines. ([Fortran](https://github.com/JOThurgood/SimpleCFD))
+* Simple (and not-so-simple) CFD solvers written in Fortran with Python plotting routines. ([Fortran](https://github.com/JOThurgood/SimpleCFD))
+* My Finite Volume Method ( FVM ) exercise about Computational Fluid Dynamics (CFD). ([C++](https://github.com/Jeff-Hugh/FVM-exercise))
+* Basic Computational Fluid Dynamics (CFD) schemes implemented in FORTRAN using Finite-Volume and Finite-Difference Methods. Sample simulations and figures are provided. ([Fortran](https://github.com/brli3/CFD))
